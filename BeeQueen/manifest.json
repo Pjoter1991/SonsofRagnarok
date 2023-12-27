@@ -1,0 +1,9 @@
+{
+    "name": "BeeQueen-Polish_Translation",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for OdinPlus mod BeeQueen.",
+    "dependencies": [
+                    "OdinPlus-BeeQueen-1.0.16"
+    ]
+}

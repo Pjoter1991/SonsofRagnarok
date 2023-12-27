@@ -1,0 +1,268 @@
+mpasn_searchbyname: Wyszukaj według nazwy...
+mpasn_None: Brak 
+mpasn_Banker: Bankier 
+mpasn_Trader: Trader 
+mpasn_Gambler: Hazardzista 
+mpasn_Marketplace: Rynek 
+mpasn_Teleporter: Teleporter 
+mpasn_Buffer: Zaklinacz 
+mpasn_Info: Informacje 
+mpasn_Quests: Zadania 
+mpasn_Feedback: Opinie 
+mpasn_Transmog: Transmog 
+mpasn_sell: Sprzedaż 
+mpasn_buy: Kup 
+mpasn_profile: Profil 
+mpasn_gold: Złoto 
+mpasn_added: Dodano $1 $2 
+mpasn_spawned: Odrodzony 
+mpasn_itemname: Nazwa przedmiotu 
+mpasn_count: Liczba 
+mpasn_price: Cena 
+mpasn_opennpcui: Otwórz NPC UI
+mpasn_openmarketplace: Otwórz Rynek 
+mpasn_changenpctype: Zmień typ NPC 
+mpasn_changenpcprofile: Zmiana profilu NPC (maks. 30 symboli) 
+mpasn_overridenpcname: Zastąpienie nazwy NPC 
+mpasn_snaptogroundandrotate: Przyciąganie do ziemi i obracanie 
+mpasn_apply: Zastosuj 
+mpasn_income: Odbierz dochód 
+mpasn_quantity: Ilość 
+mpasn_youareblocked: Jesteś zablokowany 
+mpasn_limitmarket: Maksymalny limit slotów na rynku 
+mpasn_error: Błąd 
+mpasn_youget: Dostaniesz
+mpasn_youneed: Potrzebujesz 
+mpasn_quality: Jakość 
+mpasn_rarity: Rzadkość 
+mpasn_mysales: Pokaż moją sprzedaż 
+mpasn_allowed: Dozwolone 
+mpasn_banned: Zablokowane 
+mpasn_slotlimit: Limit slotów 
+mpasn_itemnamemarket: Nazwa przedmiotu 
+mpasn_sellernamemarket: Sprzedawca 
+mpasn_sellmarketplace: Sprzedaj 
+mpasn_buymarketplace: Kup 
+mpasn_goldmarketplace: Złoto 
+mpasn_pricemarketplace: Cena 
+mpasn_quantitymarketplace: Ilość 
+mpasn_sellasanon: Sprzedaj jako anon 
+mpasn_cancel: Anuluj 
+mpasn_all: Wszystkie 
+mpasn_weapons: Broń 
+mpasn_armor: Pancerze 
+mpasn_consumable: Materiały eksploatacyjne 
+mpasn_tools: Narzędzia 
+mpasn_resources: Zasoby 
+mpasn_withdraw: Wypłata 
+mpasn_deposit: Depozyt 
+mpasn_enterquantity: Wprowadź ilość 
+mpasn_bankquantity: W banku 
+mpasn_cooldown: Czas odnowienia 
+mpasn_daysleft: Pozostało dni 
+mpasn_complete: Zakończone 
+mpasn_cancelquest: Anuluj quest
+mpasn_takequest: Wykonaj zadanie 
+mpasn_Pet: Zwierzak 
+mpasn_Item: Przedmiot 
+mpasn_Skill: Poziom umiejętności 
+mpasn_Skill_EXP: EXP umiejętności 
+mpasn_Kill: Zabij 
+mpasn_Talk: Porozmawiaj z 
+mpasn_Harvest: Żniwa 
+mpasn_Craft: Rzemiosło 
+mpasn_Collect: Zbieraj 
+mpasn_Build: Buduj 
+mpasn_notenoughskilllevel: Nie masz wystarczającego poziomu umiejętności 
+mpasn_needtofinishquest: Musisz ukończyć zadanie 
+mpasn_needglobalkey: Potrzebny klucz globalny 
+mpasn_target: Cel 
+mpasn_reward: Nagroda 
+mpasn_youfinishedquest: Ukończyłeś zadanie 
+mpasn_EpicMMO_EXP: <color=yellow>EpicMMO</color> EXP 
+mpasn_needepicmmolevel: Potrzebny <color=yellow>poziom EpicMMO</color> 
+mpasn_inventory: Ekwipunek
+mpasn_duration: Czas trwania 
+mpasn_bufferbuy: Kup 
+mpasn_modifyattack: Modyfikacja ataku 
+mpasn_healthregenmodifier: Modyfikator regeneracji zdrowia 
+mpasn_staminaregenmodifier: Modyfikator regeneracji wytrzymałości 
+mpasn_modifyraisingskills: Modyfikacja umiejętności podnoszenia 
+mpasn_movementspeedmodifier: Modyfikator prędkości ruchu 
+mpasn_noisemodifier: Modyfikator hałasu 
+mpasn_maxcarryweight: Maksymalny udźwig 
+mpasn_stealthbonus: premia do skradania się 
+mpasn_runstaminadrain: Zużycie wytrzymałości podczas biegu 
+mpasn_damagereduction: Redukcja obrażeń 
+mpasn_needhasitem: Potrzebujesz przedmiotu 
+mpasn_opennnpcui: INTERFEJS NPC 
+mpasn_fashionmenu: Menu mody 
+mpasn_removenpc: Usuń NPC 
+mpasn_interact: Interakcja 
+mpasn_expired: WYGASŁY 
+mpasn_taxes: Podatki 
+mpasn_overridenpcmodel: Zastąp model NPC 
+mpasn_setpatroldata: Ustaw dane patrolu (X0,Z0,X1,Z1 i tak dalej) 
+mpasn_leftitem: Przedmiot w lewej ręce 
+mpasn_rightitem: Przedmiot w prawej ręce
+mpasn_helmetitem: Hełm 
+mpasn_chestitem: Klata 
+mpasn_legsitem: Nogi 
+mpasn_capeitem: Peleryna 
+mpasn_leftbackitem: Przedmiot na plecach po lewej 
+mpasn_rightbackitem: Przedmiot na plecach po prawej
+mpasn_hairitem: Włosy (indeks) 
+mpasn_haircolor: Kolor włosów (#hex) 
+mpasn_skincolor: Kolor skóry (#hex) 
+mpasn_modelscale: Skala modelu 
+mpasn_interactanimation: Animacja interakcji 
+mpasn_greetanimation: Animacja powitania 
+mpasn_byeanimation: Animacja pożegnania 
+mpasn_greettext: Tekst powitania 
+mpasn_byetext: Tekst pożegnania
+mpasn_craftinganimation: Animacja rzemieślnicza (indeks) 
+mpasn_bearditem: Broda (indeks) 
+mpasn_beardcolor: Kolor brody (#hex) 
+mpasn_interactsound: Dźwięk interakcji 
+mpasn_textfont: Czcionka tekstu 
+mpasn_textsize: Rozmiar tekstu 
+mpasn_textheight: Wysokość tekstu
+mpasn_nopremiumaccess: Bez dostępu premium
+mpasn_noitems: Brak przedmiotów 
+mpasn_enabledebugmode: Włącz <color=#00FFFF>tryb debugowania</color> najpierw 
+mpasn_teleportwithore: NIE MOŻNA TELEPORTOWAĆ SIĘ Z RUDĄ 
+mpasn_cantteleport: Nie można teleportować 
+mpasn_nobuilddamage: Nie można niszczyć budynków 
+mpasn_pushaway: Odepchnięcie 
+mpasn_cantbuild: Nie można budować 
+mpasn_cantusepickaxe: Nie można użyć kilofa 
+mpasn_nointeractions: Brak interakcji 
+mpasn_cantattack: Nie można atakować 
+mpasn_pvponly: Tylko PvP 
+mpasn_pveonly: Tylko PvE 
+mpasn_periodichealALL: Okresowe leczenie (wszystko) 
+mpasn_periodicheal: Okresowe leczenie 
+mpasn_periodicdamage: Obrażenia okresowe 
+mpasn_increasedamagePlayer: Zwiększone obrażenia (gracz) 
+mpasn_increasedamageMonsters: Zwiększone obrażenia (potwory) 
+mpasn_nomonsters: Brak potworów 
+mpasn_movementspeedmultiplier: Mnożnik prędkości ruchu 
+mpasn_nodeathpenalty: Brak utraty umiejętności po śmierci 
+mpasn_noportals: Nie można używać portali 
+mpasn_infinitefuel: Nieskończone paliwo 
+mpasn_nointeractitems: Brak interakcji z przedmiotami 
+mpasn_nointeractcraftingstations: Brak interakcji ze stacjami rzemieślniczymi
+mpasn_nointeractitemstands: Brak interakcji ze stojakami na przedmioty 
+mpasn_nointeractchests: Brak interakcji ze skrzyniami 
+mpasn_nointeractdoors: Brak interakcji z drzwiami 
+mpasn_nostructuresupport: Brak wsparcia struktury 
+mpasn_nointeractportals: Brak interakcji z portalami 
+mpasn_noitemloss: Brak utraty przedmiotów przy śmierci 
+mpasn_npcloader: Ładowarka NPC 
+mpasn_save: Zapisz 
+mpasn_gamblebutton: GRAJ 
+mpasn_gambleryouhaveachance: Masz szansę na zdobycie 
+mpasn_itemsperroll: Przedmioty na rundę 
+mpasn_questfinished: Ukończone zadanie 
+mpasn_questtaken: Rozpoczęte zadanie 
+mpasn_transmog_onehandedweapon: Broń jednoręczna 
+mpasn_transmog_twohandedweapon: Broń dwuręczna 
+mpasn_transmog_bow: Łuki 
+mpasn_transmog_shield: Tarcze 
+mpasn_transmog_any: Dowolny 
+mpasn_transmog_helmet: Hełmy 
+mpasn_transmog_chest: Klata 
+mpasn_transmog_legs: Nogi 
+mpasn_transmog_shoulder: Peleryny 
+mpasn_transmog_tool: Narzędzia 
+mpasn_transmog_utility: Utility 
+mpasn_transmog_price: Cena 
+mpasn_transmog_transmogrifiedinfo: Przemieniono na 
+mpasn_tooltip_pet: Stworzenie odrodzi się oswojone jeśli można je oswoić 
+mpasn_tooltip_epicmmo: Dodaje <color=yellow>EpicMMO</color> doświadczenia 
+mpasn_tooltip_addskilllevel: Dodaje poziom umiejętności 
+mpasn_tooltip_addskillexp: Dodaje exp umiejętności 
+mpasn_questjournal: Dziennik zadań 
+mpasn_infiniteeitr: Nieskończony Eitr 
+mpasn_infinitestamina: Nieskończona wytrzymałość 
+mpasn_nomistlandsmist: Brak Mgły Mglistych Krain 
+mpasn_transmog_twohandedweaponleft: Broń dwuręczna (lewa ręka) 
+mpasn_transmog_eff0: Brak efektu 
+mpasn_transmog_eff21: Dowolny efekt 
+mpasn_needmhlevel: Ptrzebujesz <color=#00FFFF>Magic</color><color=yellow>Heim</color> poziom
+mpasn_MH_EXP: <color=#00FFFF>Magic</color><color=yellow>Heim</color> Doświadczenie
+mpasn_tooltip_mh: Dodaje <color=#00FFFF>Magic</color><color=yellow>Heim</color> Doświadczenie 
+kg_banker_putall: Umieść wszystko 
+mpasn_periodicanimation: Animacja okresowa 
+mpasn_periodicanimationtime: Interwał animacji okresowej 
+mpasn_currency: Waluta 
+mpasn_messages: Wiadomości
+mpasn_periodicsound: Okresowy dźwięk
+mpasn_periodicsoundtime: Interwał dźwięku okresowego
+mpasn_setnpcdialogue: Dodaj Dialog NPC
+mpasn_needhasbuff: Potrzebujesz buffa
+mpasn_nocreaturedrops: Brak Dropu z Przeciwników
+mpasn_questtimelimit: Limit Czasu
+mpasn_questtimelimitfail: Czas Minął
+mpasn_queststillnotfinished: Progres Zadania nie wykonany
+mpasn_questalreadyfinished: Progres Zadania wykonany
+mpasn_questnottaken: Zadanie nie odebrane
+mpasn_toomuchskilllevel: Za wysoki poziom umiejętności
+mpasn_notneedglobalkey: Globalny Klucz jest aktywny
+mpasn_notneedhasbuff: Buff jest aktywny
+mpasn_neednothasitem: Masz przedmiot
+mpasn_zoneloading: Ładowanie lokacji...
+mpasn_JC_Item: Przedmiot z Jewelcraftingu 
+mpasn_JC_RandomItem: Losowy przedmiot z Jewelcraftingu 
+mpasn_Cozyheim_EXP: <color=yellow>Cozyheim</color> Doświadczenie 
+mpasn_tooltip_cozyheim: Dodaje <color=yellow>Cozyheim</color> doświadczenia 
+mpasn_needcozyheimlevel: Potrzebny <color=yellow>poziom Cozyheim</color> 
+mpasn_toomuchepicmmolevel: Za wysoki <color=yellow>EpicMMO</color> poziom 
+mpasn_toomuchcozyheimlevel: Za wysoki <color=yellow>Cozyheim</color> poziom 
+mpasn_needtitle: Potrzebny tytuł 
+mpasn_dontneedtitle: Masz Tytuł 
+mpasn_Leaderboard: Leaderboard 
+mpasn_Leaderboard_PlayerName: Nazwa gracza 
+mpasn_Leaderboard_AchScore: "Ach.\nScore" 
+mpasn_Leaderboard_CreaturesKilled: "Potwory\nZabite" 
+mpasn_Leaderboard_PlayersKilled: "Gracze\nZabici" 
+mpasn_Leaderboard_StructuresBuilt: "Struktury\nWybudowane" 
+mpasn_Leaderboard_Harvested: "Rośliny\nZebrane" 
+mpasn_Leaderboard_ItemsCrafted: "Przedmioty\nWytworzone" 
+mpasn_Leaderboard_AmountOfDeath: "Ilość\nŚmierci" 
+mpasn_Leaderboard_MapExplored: "Mapa\nOdkryta" 
+mpasn_LeaderboardAchievements: "Osiągnięcia" 
+mpasn_needtitlescore: Potrzeba Osiągnięć 
+mpasn_dontneedtitlescore: Masz wynik osiągnięć 
+mpasn_addedtobank: Dodano do banku 
+mpasn_needcustomvalue: Potrzebujesz wartości niestandardowej 
+mpasn_dontneedcustomvalue: Za dużo wartości niestandardowej 
+mpasn_CustomValue: Wartość niestandardowa 
+mpasn_SetCustomValue: Ustaw wartość niestandardową 
+mpasn_AddCustomValue: Dodaj wartość niestandardową 
+mpasn_savenpc: Zapisz NPC 
+mpasn_transmog_clear: Wyczyść 
+mpasn_trader_sendtobank: "Wyślij do Banku\n<color=green>Włączone</color>"
+mpasn_trader_sendtobankoff: "Wyślij do Banku\n<color=red>Wyłączone</color>" 
+mpasn_dropmultiplier: Niestandardowe współczynniki upuszczania łupów 
+mpasn_needmodinstalled: Potrzebny zainstalowany mod 
+mpasn_dontneedmodinstalled: Niepotrzebny Mod zainstalowany 
+mpasn_needIronGateStatMore: Wymaga statystyki Iron Gate minimalnie 
+mpasn_needIronGateStatLess: Wymaga statystyki Iron Gate maksymalnie 
+mpasn_npcispinned: Pokaż na mapie 
+mpasn_lootbox: Skrzynka z łupami 
+mpasn_noguild: Musi być w gildii 
+mpasn_hasguild: Nie może być w gildii 
+mpasn_needguildlevelmore: Wymagany poziom gildii większy lub równy 
+mpasn_needguildlevelless: Wymagany poziom gildii mniejszy niż 
+mpasn_needguildname: Potrzebna gildia o nazwie
+mpasn_dontneedguildname: Nie może mieć gildii o nazwie
+mpasn_needguildachievement: Potrzebne osiągnięcie gildii 
+mpasn_dontneedguildachievement: Nie można mieć osiągnięcia gildii 
+mpasn_GuildAddLevel: Dodaj poziom gildii 
+mpasn_Dialogues: Dialogi 
+mpasn_onlyforguildterritory: Terytorium gildii 
+mpasn_nothinglootbox: Nic
+mpasn_lootboxone: <color=orange>Kliknij prawym przyciskiem myszy, aby otworzyć i pobrać <b><color=green>jeden losowy</color></b> element z listy:</color>
+mpasn_lootboxall: <color=orange>Kliknij prawym przyciskiem myszy, aby otworzyć i pobrać <b><color=green>każdy</color></b> element z listy:</color>
+mpasn_lootboxallwithchance: <color=orange>Kliknij prawym przyciskiem myszy, aby otworzyć i otrzymać <b><color=green>każdy (z szansą)</color></b> przedmiot z listy:</color>

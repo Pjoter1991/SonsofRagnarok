@@ -1,0 +1,258 @@
+creatureGender:
+  default: n
+
+genderedCreatureTranslations:
+  n: '[{effect} ][{affix} ][{infusion} ]{name}'
+
+genderedTranslations:
+
+translations:
+  Aggressive: Agresywny
+  Armored: Opancerzony
+  Curious: Czujny
+  Quick: Szybki
+  Regenerating: Regenerujący
+  Splitting: Podzielny
+
+  Fire: Ognisty
+  Frost: Mroźny
+  Lightning: Elektryczny
+  Chaos: Chaotyczny
+  Spirit: Zaklęty Duchem
+  Poison: Zatruty
+
+  Reflective: Odbijający
+  Shielded: Strzałoodporny
+  Mending: Leczący
+  Summoner: Przywołujący
+  Elementalist: Elementalista
+  Enraged: Wściekły
+  Twin: Bliźniaczy
+
+  CreatureSectorLevelIncrease: Stworzenia w pobliżu {player} rosną w siłę, aby pomścić śmierć swoich pobratymców.
+  MinimapSectorLevel: 'Poziom sektora: {level}'
+  ConfigEditorSave: Zapisz i Zastosuj
+  ConfigEditorApplyNoSave: Zastosuj bez Zapisywania
+  ConfigEditorDiscard: Odrzuć i Zamknij
+  Edit Creature YAML config: Edytuj konfigurację YAML stworzenia
+  Edit Item YAML config: Edytuj konfigurację YAML przedmiotu
+  SummonerEikthyr: '{boss} Przywoływacz przywołuje {number} Szarzełki na pomoc'
+  SummonerElder: '{boss} Przywoływacz przywołuje Szarzeły Brutale na pomoc'
+  SummonerBonemass: '{boss} Przywoływacz przywołuje {number} Draugrów Nadzorców na pomoc'
+  SummonerModer: '{boss} Przywoływacz przywołuje {number} Smoki na pomoc'
+  SummonerYagluth: '{boss} Przywoływacz przywołuje Fulingi Berserkery na pomoc'
+  SummonerQueen: '{boss} Przywoływacz przywołuje {number} Szperaczy na pomoc'
+
+enumTranslations:
+  Toggle:
+    On: Włączone
+    Off: Wyłączone
+  Difficulty:
+    Custom: Niestandardowe
+    Very_easy: Bardzo łatwe
+    Easy: Łatwe
+    Medium: Średnie
+    Hard: Trudne
+    Very_hard: Bardzo trudne
+    Insane: Szalone
+  CreatureSectorAnnouncementScope:
+    Local: Lokalne
+    Global: Globalne
+    Off: Wyłączone
+  LootSystem:
+    Vanilla: Standardowe
+    Linear: Liniowe
+    CalculateChance: Oblicz szansę
+    CalculateAmount: Oblicz ilość
+  VisualLevelIndicator:
+    Off: Wyłączone
+    On: Włączone
+    BossesOff: Wyłączone dla Bossów
+    CreaturesOff: Wyłączone dla Stworzeń
+  AllowedConsoleCommands:
+    CreatureCommands: Komendy Stworzeń
+    InformationCommands: Komendy Informacyjne
+    None: Brak
+  VisualExtraEffectIndicator:
+    Color: Kolor
+    Text: Tekst
+    Both: Kolor i Tekst
+  DifficultySecondFactor:
+    None: Brak
+    Age_of_world: Użyj Wieku Świata
+    Distance: Użyj Odległości od Startu
+    BossesKilled: Użyj liczby zabitych Bossów
+  SpawnLevel:
+    None: Brak
+    One: Jeden
+    Two: Dwa
+    Three: Trzy
+    Four: Cztery
+    Five: Pięć
+  CreatureSectorWorldLevel:
+    Disabled: Wyłączone
+    None: Brak
+    One: Jeden
+    Two: Dwa
+    Three: Trzy
+    Four: Cztery
+    Five: Pięć
+    Six: Sześć
+
+settingGroups:
+  General: Ogólne
+  Creatures: Stworzenia
+  Loot: Łupy
+  Bosses: Bossowie
+  Distance from Spawn: Odległość od Startu
+  Age of world: Wiek Świata
+  Custom level chances: Niestandardowe szanse poziomu
+  Creature Affix chances: Szanse affixów dla Stworzeń
+  Creature Infusion chances: Szanse infuzji dla Stworzeń
+  Boss Affix chances: Szanse affixów dla Bossów
+  Boss Affix power: Moc affixów dla Bossów
+
+settings:
+  Lock Configuration:
+    desc: Konfiguracja jest zablokowana i nie może być zmieniana przez klientów. Tylko aktywne dla serwerów.
+  Use creature configuration yaml:
+    desc: Czyta plik CreatureConfig.yml, jeśli istnieje. Konfiguracja dokonana za pomocą pliku YAML zastąpi te same ustawienia dokonane za pomocą domyślnego pliku konfiguracyjnego. Dla wszystkiego, co nie jest skonfigurowane w pliku YAML, nadal będzie używany domyślny plik konfiguracyjny.
+  Use item configuration yaml:
+    desc: Czyta plik ItemConfig.yml, jeśli istnieje. Konfiguracja dokonana za pomocą pliku YAML zastąpi te same ustawienia dokonane za pomocą domyślnego pliku konfiguracyjnego. Dla wszystkiego, co nie jest skonfigurowane w pliku YAML, nadal będzie używany domyślny plik konfiguracyjny.
+  nexusID:
+    desc: Identyfikator moda Nexus do aktualizacji.
+  HP increase per player in multiplayer (percentage):
+    desc: Zwiększenie zdrowia na gracza w trybie wieloosobowym w procentach.
+  DMG increase per player in multiplayer (percentage):
+    desc: Zwiększenie obrażeń na gracza w trybie wieloosobowym w procentach.
+  Minimum player count for multiplayer scaling:
+    desc: Ustawia minimalną liczbę graczy dla gier wieloosobowych.
+  Maximum player count for multiplayer scaling:
+    desc: Ustawia maksymalną liczbę graczy dla gier wieloosobowych.
+  Player count to be added to the actual player count for multiplayer scaling (0 is disabled):
+    desc: Dodaje określoną liczbę graczy do rzeczywistej liczby graczy dla skalowania gier wieloosobowych.
+  Multiplayer scaling per player range (0 is unlimited):
+    desc: Zakres, w jakim inni gracze muszą być, aby liczyć się do skalowania gier wieloosobowych. Nie ma wpływu, jeśli ustalona liczba graczy jest różna od 0.
+  Nameplate display on mouseover range:
+    desc: Maksymalna odległość, na jaką wyświetla się tabliczka z imieniem po najechaniu myszką.
+  Visual indicators for level:
+    desc: Może być używane do wyłączenia wizualnych wskaźników poziomu celu, na przykład gwiazdek lub koloru.
+  Console commands allowed to be used by users on a server:
+    desc: Ustawia komendy CLLC, których użytkownicy na serwerze mogą używać. Administratorzy serwera zawsze mogą używać wszystkich poleceń. Nie ma wpływu, jeśli konfiguracja jest odblokowana (z oczywistych powodów).
+  Detailed damage log:
+    desc: Włącza szczegółowe logowanie obrażeń dla każdego trafienia.
+  Difficulty:
+    desc: Ustawia szanse na zdobycie poziomu dla wszystkich stworzeń.
+  Second factor:
+    desc: Zmienia drugi czynnik używany do obliczania szansy zdobycia poziomu.
+  Display circles on the map for distance from spawn option:
+    desc: Wyświetla okręgi na mapie dla opcji odległości od startu.
+  Creatures can spawn with special effects:
+    desc: Stworzenia mogą pojawiać się z efektami specjalnymi, co sprawia, że są znacznie trudniejsze do zabicia.
+  Visual indicator for special effects:
+    desc: Zmienia sposób wyświetlania wizualnego wskaźnika dodatkowych efektów stworzeń.
+  Creatures can spawn with elemental infusions:
+    desc: Stworzenia mogą pojawiać się z infuzjami elementarnymi, co sprawia, że są znacznie trudniejsze do zabicia.
+  Add the infusion to the creatures name:
+    desc: Stworzenia z infuzjami elementarnymi mają dodaną infuzję do swojego imienia.
+  Brightness for the elemental infusions visual indicator (percentage):
+    desc: Ustawia jasność efektu wizualnego infuzji elementarnych stworzeń w procentach.
+  Minimum stars:
+    desc: Ustawia minimalną liczbę gwiazdek dla wszystkich stworzeń. Nie wpływa na niestandardową trudność.
+  Maximum stars:
+    desc: Ustawia maksymalną liczbę gwiazdek dla wszystkich stworzeń. Nie wpływa na niestandardową trudność.
+  Time until creatures in dungeons respawn in minutes (0 means disabled, 30 is one in-game day):
+    desc: Czas do ponownego pojawienia się stworzeń w lochach w minutach (0 = wyłączone, 30 = jeden dzień gry).
+  Time until creatures in camps respawn in minutes (0 means disabled, 30 is one in-game day):
+    desc: Czas do ponownego pojawienia się stworzeń w obozach w minutach (0 = wyłączone, 30 = jeden dzień gry).
+  Creature size increase per star (percentage):
+    desc: Zwiększa rozmiar stworzeń na gwiazdkę w procentach.
+  Increase creature size even in dungeons (where they might get stuck):
+    desc: Jeśli rozmiar stworzenia będzie zwiększony również w lochach, gdzie mogą utknąć, jeśli staną się zbyt duże.
+  Base health for creatures (percentage):
+    desc: Bazowe zdrowie stworzeń w procentach.
+  Health gained per star for creatures (percentage):
+    desc: Zdrowie zyskane na gwiazdkę dla stworzeń w procentach.
+  Base damage for creatures (percentage):
+    desc: Bazowe obrażenia stworzeń w procentach.
+  Damage gained per star for creatures (percentage):
+    desc: Obrażenia zyskane na gwiazdkę dla stworzeń w procentach.
+  Base movement speed for creatures (percentage):
+    desc: Bazowa prędkość ruchu stworzeń w procentach.
+  Base attack speed for creatures (percentage):
+    desc: Bazowa prędkość ataku stworzeń w procentach.
+  World level required to enable creature sectors:
+    desc: Minimalny poziom świata, aby sektory stworzeń stały się aktywne.
+  Time until each creature sector is reset (0 is no reset):
+    desc: Czas, który musi upłynąć, zanim bonusowy poziom sektora stworzeń zostanie zresetowany, w minutach (0 = wyłączone, 30 = jeden dzień gry).
+  Kills required in a sector for each bonus level:
+    desc: Liczba zabitych stworzeń w tym samym sektorze potrzebna do uzyskania bonusowego poziomu.
+  Sets the scope for creature sector level up announcements:
+    desc: Ustawia zakres ogłoszeń o awansie poziomu sektora stworzeń.
+  Duration of the map ping for creature sector level ups in seconds (0 is disabled):
+    desc: Oznacza mapę na awansie poziomu sektora stworzeń. Czas podany jest w sekundach. 0 oznacza wyłączone.
+  Displays the current creature sector level on the minimap:
+    desc: Wyświetla aktualny poziom sektora stworzeń na minimapie.
+  Loot system to be used:
+    desc: |
+      Ustawia używany system łupów.
+      Vanilla całkowicie wyłącza system łupów z tego moda.
+      Linear: Upuszczone przedmioty są mnożone przez poziom stworzenia.
+      Calculate chance: Dzik ma 50% szansy na zrzucenie 2 mięsa, zrzuci albo 2, albo żadne.
+      Calculate amount: Dzik ma 50% szansy na zrzucenie 2 mięsa, zawsze jednak zrzuci 1.
+  Chance for additional loot per star for creatures:
+    desc: Szansa na dodatkowy łup na gwiazdkę dla stworzeń.
+  Chance for additional loot per star for bosses:
+    desc: Szansa na dodatkowy łup na gwiazdkę dla bossów.
+  Multiplier for dropped creature items:
+    desc: Mnoży przedmioty zrzucone przez wszystkie stworzenia.
+  Multiplier for dropped boss items:
+    desc: Mnoży przedmioty zrzucone przez wszystkich bossów.
+  Creatures can drop multiple trophies:
+    desc: Określa, czy stworzenia mogą zrzucać wiele trofeów.
+  Bosses can drop multiple trophies:
+    desc: Określa, czy bossowie mogą zrzucać wiele trofeów.
+  Drop multiplier for passive creatures (like Seagulls and Crows):
+    desc: Mnoży przedmioty zrzucone przez wszystkie pasywne stworzenia, takie jak Kruki i Mewy.
+  Time until items in dungeons respawn in minutes (0 means disabled, 30 is one in-game day):
+    desc: Czas do ponownego pojawienia się przedmiotów w lochach w minutach (0 = wyłączone, 30 = jeden dzień gry).
+  Bosses can spawn with special effects:
+    desc: Bossowie mogą pojawić się z efektami specjalnymi, co sprawia, że są znacznie trudniejsi do zabicia.
+  Use creature level chances for bosses:
+    desc: On oznacza, że szanse na zdobycie poziomu dla stworzeń są używane również dla bossów. W przeciwnym razie używane będą niestandardowe szanse na zdobycie poziomu dla bossów.
+  Star chances for bosses (percentages):
+    desc: Szanse na gwiazdki dla bossów. Zacznij od 1 gwiazdki, od lewej do prawej, tyle gwiazdek, ile chcesz. Szansa 0 gwiazdek zostanie automatycznie obliczona z reszty.
+  Boss size increase per star (percentage):
+    desc: Zwiększa rozmiar bossów na gwiazdkę w procentach.
+  Health gained per star for bosses (percentage):
+    desc: Zdrowie zyskiwane na gwiazdkę dla bossów w procentach.
+  Damage gained per star for bosses (percentage):
+    desc: Obrażenia zyskiwane na gwiazdkę dla bossów w procentach.
+  World level {level} start (days):
+    desc: Dni potrzebne do upłynięcia przed tym, jak twój świat osiągnie poziom {level}.
+  Distance from spawn for level {level} start:
+    desc: Odległość od startu dla poziomu {level}. Promień dla domyślnego świata wynosi 10500.
+  Chances for stars at world level {level} (percent):
+    desc: 'Szanse na gwiazdki na poziomie {level} w procentach. Tyle gwiazdek, ile chcesz, od lewej do prawej, oddzielone przecinkami. Zacznij od 1 gwiazdki. Szansa 0 gwiazdek zostanie automatycznie obliczona z reszty. Przykład: 30, 5.5, 2.25, 5, 10, 10, 3'
+  Chance for {effect} effect to spawn (percentage):
+    desc: Szansa na pojawienie się stworzeń z efektem {effect} (w procentach).
+  Chance for {infusionDescription} infusion to spawn (percentage):
+    desc: Szansa na pojawienie się stworzeń z infuzją {infusionDescription} (w procentach).
+  Multiplier for infusion chances per star:
+    desc: Mnożnik zastosowany do bazowych szans na pojawienie się infuzji w zależności od liczby gwiazdek stworzenia. Szanse dla każdej liczby gwiazdek, od lewej do prawej, oddzielone przecinkami. Zacznij od 0 gwiazdek. Domyślnie 1.
+  Chance for {affix} affix to spawn (percentage):
+    desc: Szansa na pojawienie się bossów z dodatkiem {affix} (w procentach).
+  Reflective base damage:
+    desc: Bazowe obrażenia na uderzenie dla dodatku Odbijający bossa.
+  Shielded damage reduction (percentage):
+    desc: Redukcja obrażeń dla amunicji w procentach dla dodatku Strzałoodporny bossa.
+  Mending healing factor:
+    desc: Mnożnik dla dodatku Leczący bossa.
+  Number of summons for Summoners:
+    desc: Liczba zdarzeń przywoływania w trakcie walki dla dodatku Przywołujący bossa.
+  Elementalist damage increase (percentage):
+    desc: Zwiększenie obrażeń elementarnych dla dodatku Elementalista bossa.
+  Enraged damage increase (percentage):
+    desc: Zwiększenie obrażeń fizycznych dla dodatku Wściekły bossa.
+  Twin damage and health (percentage):
+    desc: Zdrowie i obrażenia dla dodatku Bliźniaczy bossa.

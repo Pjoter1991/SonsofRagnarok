@@ -1,0 +1,82 @@
+$attributes = Cechy
+$parameter_strength = Siła
+$parameter_intellect = Inteligencja
+$free_points = Dostępne punkty
+$level = Poziom
+$lvl = Lvl.
+$exp = Doświadczenie
+$cancel = Anuluj
+$apply = Akceptuj
+$reset_parameters = Resetuj Punkty
+$no = Nie
+$yes = Tak
+$get_exp = Otrzymane Doświadczenie
+$reset_point_text = Czy naprawdę chcesz zresetować wszystkie punkty za {0} {1}?
+$physic_damage = Obrażenia Fizyczne
+$add_weight = Udźwig
+$reduced_stamina = Zużycie Wytrzymałości (Bieganie, Skakanie)
+$magic_damage = Obrażenia Od Żywiołów
+$magic_armor = Zmniejszone Obrażenia Od Żywiołów
+$add_hp = Zwiększenie Zdrowia
+$add_stamina = Zwiększenie Wytrzymałości
+$physic_armor = Fizyczna Redukcja
+$reduced_stamina_block = Zużycie Wytrzymałości podczas Blokowania
+$regen_hp = Regeneracja Zdrowia
+$damage = Obrażenia
+$armor = Pancerz
+$survival = Przetrwanie
+$regen_eitr = Regeneracja Eitru
+$stamina_reg = Regeneracja Wytrzymałości
+$add_eitr = Zwiększenie Eitru
+$parameter_agility = Zręczność
+$parameter_body = Odporność
+$parameter_vigour = Wigor
+$parameter_special = Specjalizacja
+$specialother = Specjalny
+$attack_speed = Szybkość ataku
+$attack_stamina = Zużycie Wytrzymałości Ataku
+$crtcDmgMulti = Mnożnik Obrażeń Krytycznych
+$mining_speed = Zwiększenie obrażeń Kilofa
+$piece_health = Zwiększenie wytrzymałości Budowli
+$tree_cutting = Zwiększenie obrażeń podczas ścinania drzew
+$crit_chance = Zwiększenie Szansy na Obrażenia Krytyczne
+$notify = <color=#00E6FF>Uwaga</color>
+$friends_list = Lista Przyjaciół
+$send = Wyślij
+$invited = Zaproszenia
+$friends = Przyjaciele
+$online = Online
+$offline = Offline
+$not_found = Gracz {0} nie został/a odnaleziony/a.
+$send_invite = Prośba o dodanie do znajomych została wysłana do gracza {0}.
+$get_invite = Otrzymano zaproszenie do grona znajomych od {0}.
+$accept_invite = Gracz {0}, zaakceptował/a zaproszenie do grona znajomych.
+$cancel_invite = Gracz {0}, anulował/a zaproszenie do grona znajomych.
+$terminal_set_level = Zdobyłeś/aś {0} poziom
+$terminal_reset_points = Twoje punkty atrybutów zostały zresetowane
+$strength_tooltip = <size=20>Siła wzmocni:</size> 
+<color=yellow> Zwiększenie obrażeń fizycznych </color> 
+<color=blue> Zwiększenie udźwigu </color> 
+<color=green> Zmniejszenie zużycia wytrzymałości podczas blokowania </color> 
+<color=red> Zwiększenie obrażeń krytycznych, gdy wejdzie cryt </color>
+$dexterity_tooltip = <size=20>Zwinność wzmocni:</size> 
+<color=red> Zwiększenie prędkości ataku (not bows)</color> 
+<color=yellow> Zmniejszenie zużycia wytrzymałości podczas ataku </color> 
+<color=green> Zmniejszenie zużycia wytrzymałości Biegania/Skakania</color> 
+$intelect_tooltip = <size=20>Inteligencja wzmocni:</size> 
+<color=green> Zwiększenie obrażeń od żywiołów </color>
+<color=red> Zwiększenie bazowej ilości Eitru (jak już będziesz miał/a Eitr)</color> 
+<color=red> Zwiększenie regeneracji Eitru</color> 
+$endurance_tooltip = <size=20>Wytrwałość wzmocni:</size> 
+<color=yellow> Zwiększenie ilości staminy</color>
+<color=yellow> Zwiększenie regeneracji staminy </color> 
+<color=green> Zmniejszenie otrzymywanych obrażeń fizycznych</color> 
+$vigour_tooltip = <size=20>Wigor wzmocni:</size> 
+<color=red> Zwiększenie Punktów Życia</color>
+<color=yellow> Regeneracja Zdrowia </color> 
+<color=green> Zmniejszenie otrzymywanych obrażeń od żywiołów</color> 
+$special_tooltip = <size=20>Specjalizacja wzmocni:</size> 
+<color=red> Zwiększenie szansy na zadanie obrażeń krytycznych Chance</color> 
+<color=blue> Zwiększenie obrażeń z kilofa </color> 
+<color=blue> Zwiększenie wytrzymałości budowli </color> 
+<color=green> Zwiększenie obrażeń podczas ścinania drzew</color>

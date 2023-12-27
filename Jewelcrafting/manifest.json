@@ -1,0 +1,9 @@
+{
+    "name": "Jewelcrafting_Polish_Translation",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for Smoothbrain's mod Jewelcrafting.",
+    "dependencies": [
+                    "Smoothbrain-Jewelcrafting-1.5.13"
+    ]
+}

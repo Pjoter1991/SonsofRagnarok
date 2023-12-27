@@ -1,0 +1,9 @@
+{
+    "name": "MarketplaceAndServerNPCs_Polish_Translation",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for KG's Marketplace And Server NPCs mod.",
+    "dependencies": [
+                    "KGvalheim-Marketplace_And_Server_NPCs_Revamped-9.2.1"
+    ]
+}
