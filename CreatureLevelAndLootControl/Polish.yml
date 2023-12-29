@@ -1,33 +1,46 @@
 creatureGender:
-  default: n
+  default: m
+  Abomination: w #Abominacja
+  Blob: w #Błotna flegma
+  Dragon: w #Modera
+  Hen: w #Kura
+  Leech: w #Pijawka
+  Leech_cave: w
+  SeekerQueen: w #Królowa
+  BeeQueen: w #Królowa Pszczół
+  DamnedOne_TW: w #Przeklęta Dusza
+  ArcticBear_TW: w #Ursa
+
 
 genderedCreatureTranslations:
-  n: '[{effect} ][{affix} ][{infusion} ]{name}'
+  m: '[{effect}y ][{affix}y ][{infusion}y ]{name}'
+  w: '[{effect}a ][{affix}a ][{infusion}a ]{name}'
 
 genderedTranslations:
 
+
 translations:
-  Aggressive: Agresywny
-  Armored: Opancerzony
-  Curious: Czujny
-  Quick: Szybki
-  Regenerating: Regenerujący
-  Splitting: Podzielny
+  Aggressive: Agresywn
+  Armored: Pancern
+  Curious: Czujn
+  Quick: Żwaw
+  Regenerating: Regenerując
+  Splitting: Podzieln
 
-  Fire: Ognisty
-  Frost: Mroźny
-  Lightning: Elektryczny
-  Chaos: Chaotyczny
-  Spirit: Zaklęty Duchem
-  Poison: Zatruty
+  Fire: Ognist
+  Frost: Mroźn
+  Lightning: Elektryczn
+  Chaos: Chaotyczn
+  Spirit: Dochow
+  Poison: Zatrut
 
-  Reflective: Odbijający
-  Shielded: Strzałoodporny
-  Mending: Leczący
-  Summoner: Przywołujący
-  Elementalist: Elementalista
-  Enraged: Wściekły
-  Twin: Bliźniaczy
+  Reflective: Odbijając
+  Shielded: Strzałoodporn
+  Mending: Lecząc
+  Summoner: Przywołując
+  Elementalist: Żywiołow
+  Enraged: Wściekł
+  Twin: Bliźniacz
 
   CreatureSectorLevelIncrease: Stworzenia w pobliżu {player} rosną w siłę, aby pomścić śmierć swoich pobratymców.
   MinimapSectorLevel: 'Poziom sektora: {level}'
