@@ -3,9 +3,10 @@ Polish translation for Smoothbrain's CreatureLevelAndLootControl mod.
 
 ## Instalacja
 
-Skopiuj folder **CreatureLevelAndLootControlLocalization** do lokalizacji: **BepinEx/plugins/Smoothbrain-CreatureLevelAndLootControl/**
-Alternatywnie pobierz paczkę za pomocą Mod Managera.
-Uruchom grę w języku polskim.
+Skopiuj plik **Polish.yml** do lokalizacji: **BepinEx/plugins/Smoothbrain-CreatureLevelAndLootControl/**
+Uruchom grę w języku polskim. </br>
+
+**Uwaga!** Tłumaczenie zadziała tylko i wyłącznie, jeśli znajdzie się w folderze, obok pliku CreatureLevelControl.dll
 
 
 W razie uwag oraz poprawek złap **Pjotera** na Discordzie [Sons of Ragnarok](https://discord.gg/bhzxCZVezB).
