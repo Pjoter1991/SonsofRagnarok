@@ -1,4 +1,4 @@
-# OdinsKingdom Polish Translation
+# OdinsKingdom Polish Localization
 Polish translation for OdinPlus OdinsKingdom mod.
 
 ## Instalacja
@@ -10,4 +10,4 @@ Uruchom grę w języku polskim.
 
 W razie uwag oraz poprawek złap **Pjotera** na Discordzie [Sons of Ragnarok](https://discord.gg/bhzxCZVezB).
 
-![](https://github.com/Pjoter1991/SonsofRagnarok/blob/main/assets/Sons_of_Ragnarok_Header_small.png "Sons of Ragnarok")
+![SonsofRagnarok](https://i.imgur.com/G6SKC1W.png)
