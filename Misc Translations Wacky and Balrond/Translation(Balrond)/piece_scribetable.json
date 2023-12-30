@@ -1,0 +1,8 @@
+{
+    "prefabID": "piece_scribetable",
+    "name": "Scribe Table",
+    "description": "$piece_craftingstation . For creating all ship schematics",
+    "containerName": "",
+    "tableName": "Scribe Table",
+    "hoverName": ""
+}

@@ -1,0 +1,57 @@
+name: rk_oven
+piecehammer: Hammer
+m_name: Oven
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 0
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Immune
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Normal
+    m_spirit: Normal
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData:
+  MainCraftingStationName: rk_grill
+  maxStationDistance: 8
+  continousConnection: false
+  stack: false
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- SurtlingCore:2:0:True
+- TrophySurtling:1:0:True
+- Stone:10:0:True

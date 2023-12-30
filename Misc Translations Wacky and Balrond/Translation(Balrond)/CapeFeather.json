@@ -1,0 +1,8 @@
+{
+    "prefabID": "CapeFeather",
+    "name": "$item_cape_feather",
+    "description": "$item_cape_feather_description",
+    "containerName": "",
+    "tableName": "",
+    "hoverName": ""
+}

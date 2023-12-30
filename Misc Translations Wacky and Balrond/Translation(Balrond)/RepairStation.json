@@ -1,0 +1,8 @@
+{
+    "prefabID": "RepairStation",
+    "name": "$piece_repairstation",
+    "description": "$piece_repairstation_description",
+    "containerName": "",
+    "tableName": "",
+    "hoverName": ""
+}

@@ -1,0 +1,8 @@
+{
+    "prefabID": "kg_ItemDrawerPanel_Stone",
+    "name": "Kamienny AutoPanel",
+    "description": "Kamienna Panelo-szuflada automatycznie zbierająca przypisany do niej materiał.",
+    "containerName": "",
+    "tableName": "",
+    "hoverName": ""
+}

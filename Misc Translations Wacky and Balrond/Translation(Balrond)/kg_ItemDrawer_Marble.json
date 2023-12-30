@@ -1,0 +1,8 @@
+{
+    "prefabID": "kg_ItemDrawer_Marble",
+    "name": "Marmurowa AutoSzuflada",
+    "description": "Marmurowa szuflada automatycznie zbierająca przypisany do niej materiał.",
+    "containerName": "",
+    "tableName": "",
+    "hoverName": ""
+}
