@@ -1,6 +1,6 @@
 {
     "prefabID": "RepairStation",
-    "name": "$piece_repairstation",
+    "name": "Kowadło Naprawy",
     "description": "$piece_repairstation_description",
     "containerName": "",
     "tableName": "",

@@ -1,7 +1,7 @@
 {
     "prefabID": "OdinsDuckRide",
-    "name": "$piece_OdinsDuckRide",
-    "description": "$piece_OdinsDuckRide_description",
+    "name": "Kaczucha",
+    "description": "Pływa w wannie. I nie tylko.",
     "containerName": "",
     "tableName": "",
     "hoverName": ""

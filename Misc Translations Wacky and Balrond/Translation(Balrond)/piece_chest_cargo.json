@@ -1,8 +1,8 @@
 {
     "prefabID": "piece_chest_cargo",
-    "name": "Cargo",
-    "description": "A small 4 slot chest made of tarred wood",
-    "containerName": "Cargo",
+    "name": "Ładunek",
+    "description": "Niewielka skrzynia z 4 gniazdami wykonana ze smołowanego drewna.",
+    "containerName": "Ładunek",
     "tableName": "",
     "hoverName": ""
 }

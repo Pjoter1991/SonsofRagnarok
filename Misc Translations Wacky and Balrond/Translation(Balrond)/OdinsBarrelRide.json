@@ -1,7 +1,7 @@
 {
     "prefabID": "OdinsBarrelRide",
-    "name": "$piece_OdinsBarrelRide",
-    "description": "$piece_OdinsBarrelRide_description",
+    "name": "Beczka Śmiechu",
+    "description": "Kiedy naprawdę nie masz wyboru, w tej beczce dopłyniesz... wszędzie.",
     "containerName": "",
     "tableName": "",
     "hoverName": ""

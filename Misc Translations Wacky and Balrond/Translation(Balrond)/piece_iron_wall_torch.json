@@ -1,7 +1,7 @@
 {
     "prefabID": "piece_iron_wall_torch",
-    "name": "Iron wall Torch",
-    "description": "Fueled with Tar keeps fire 3 times longer",
+    "name": "Żelazny kinkiet",
+    "description": "Smoła utrzymuje ogień 3 razy dłużej.",
     "containerName": "",
     "tableName": "",
     "hoverName": ""

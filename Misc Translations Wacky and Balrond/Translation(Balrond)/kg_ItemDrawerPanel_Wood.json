@@ -2,7 +2,7 @@
     "prefabID": "kg_ItemDrawerPanel_Wood",
     "name": "Drewniany AutoPanel",
     "description": "Drewaniana Panelo-szuflada automatycznie zbierająca przypisany do niej materiał.",
-    "containerName": "",
+    "containerName": "Drewniany AutoPanel",
     "tableName": "",
     "hoverName": ""
 }

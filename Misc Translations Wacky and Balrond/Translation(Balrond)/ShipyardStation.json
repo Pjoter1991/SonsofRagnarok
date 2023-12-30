@@ -1,7 +1,7 @@
 {
     "prefabID": "ShipyardStation",
-    "name": "Shipyard",
-    "description": "For All Your ship upgrades",
+    "name": "Stocznia",
+    "description": "Dla wszystkich ulepszeń statków.",
     "containerName": "",
     "tableName": "",
     "hoverName": ""

@@ -1,8 +1,8 @@
 {
     "prefabID": "piece_chest_tarred",
-    "name": "Dock Cargo",
-    "description": "A massive 40 slot chest made of tarred wood",
-    "containerName": "Dock Cargo",
+    "name": "Ładunek dokowy",
+    "description": "Masywna skrzynia na 40 miejsc wykonana ze smołowanego drewna.",
+    "containerName": "Ładunek dokowy",
     "tableName": "",
     "hoverName": ""
 }

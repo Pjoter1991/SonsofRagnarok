@@ -2,7 +2,7 @@
     "prefabID": "kg_ItemDrawer_Stone",
     "name": "Kamienna AutoSzuflada",
     "description": "Kamienna szuflada automatycznie zbierająca przypisany do niej materiał.",
-    "containerName": "",
+    "containerName": "Kamienna AutoSzuflada",
     "tableName": "",
     "hoverName": ""
 }
