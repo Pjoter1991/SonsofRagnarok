@@ -1,0 +1,9 @@
+{
+    "name": "SimpleElevators_Polish_Localization",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for blacks7ar's SimpleElevators mod.",
+    "dependencies": [
+                    "blacks7ar-SimpleElevators-1.1.5"
+    ]
+}

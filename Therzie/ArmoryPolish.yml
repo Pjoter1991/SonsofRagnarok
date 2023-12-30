@@ -1,0 +1,352 @@
+## TŁUMACZENIE NA JEZYK POLSKI ARMORY ##
+
+## STACJA KUŹNICZA ##
+piece_armory_TW: "Zbrojownia"
+piece_armory_description_TW: "Stacja kraftująca zbroje"
+
+## KAWKA ##
+armory_topic_TW: "Zbudowałeś zbrojownię!"
+armory_text_TW: "Możesz ulepszać stare zbroje w zbrojowni na nowe magiczne wersje, które można następnie ulepszać do następnego biomu za pomocą odpowiednich materiałów. Jest też wbudowany piec hutniczy i skrzynia na przechowywanie!"
+
+## EFEKTY KOMPLETU ZBROI ##
+set_razorback_TW: "Ostroróg"
+set_razorbackbuff_TW: "Ostroróg"
+armorchest_razorback_TW: "Brązowa kamizelka Ostroroga"
+armorchest_razorback_description_TW: "Czarna skórzana brązowa kamizelka z napierśnikiem z kłów."
+armorlegs_razorback_TW: "Skórzane leginsy Ostroroga"
+armorlegs_razorback_description_TW: "Para czarnych skórzanych spodni i butów z kłami."
+helmet_razorback_TW: "Kaptur Ostroroga"
+helmet_razorback_description_TW: "Trofeum myśliwego na dziki."
+
+leatherarmorset_TW: "Jeleń"
+rogueset_TW: "Łotr"
+bronzerogueset_description_TW: "Zwiększa twoje obrażenia nożami o 2%."
+ironrogueset_description_TW: "Zwiększa twoje obrażenia nożami o 4%."
+silverrogueset_description_TW: "Zwiększa twoje obrażenia nożami o 6%."
+bmrogueset_description_TW: "Zwiększa twoje obrażenia nożami o 8%."
+carapacerogueset_description_TW: "Zwiększa twoje obrażenia nożami o 10%."
+tyraniumrogueset_description_TW: "Zwiększa twoje obrażenia nożami o 12%."
+vigorousset_TW: "Energiczny"
+bronzevigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 2%."
+ironvigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 4%."
+silvervigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 6%."
+bmvigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 8%."
+carapacevigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 10%."
+tyraniumvigorousset_description_TW: "Zwiększa twoje obrażenia toporami o 12%."
+warriorset_TW: "Wojenny"
+ironwarriorset_description_TW: "Zwiększa twoje obrażenia maczugami o 4%."
+silverwarriorset_description_TW: "Zwiększa twoje obrażenia maczugami o 6%."
+bmwarriorset_description_TW: "Zwiększa twoje obrażenia maczugami o 8%."
+carapacewarriorset_description_TW: "Zwiększa twoje obrażenia maczugami o 10%."
+flametalwarriorset_description_TW: "Zwiększa twoje obrażenia maczugami o 12%."
+fenrirset_TW: "Fenrir"
+silverfenrirset_description_TW: "Zwiększa twoje obrażenia bez bronią o 6%."
+bmfenrirset_description_TW: "Zwiększa twoje obrażenia bez bronią o 8%."
+carapacefenrirset_description_TW: "Zwiększa twoje obrażenia bez bronią o 10%."
+tyraniumfenrirset_description_TW: "Zwiększa twoje obrażenia bez bronią o 12%."
+vidarset_TW: "Vidar"
+silvervidarset_description_TW: "Zwiększa twoje obrażenia mieczami o 6%."
+bmvidarset_description_TW: "Zwiększa twoje obrażenia mieczami o 8%."
+carapacevidarset_description_TW: "Zwiększa twoje obrażenia mieczami o 10%."
+flametalvidarset_description_TW: "Zwiększa twoje obrażenia mieczami o 12%."
+boldset_TW: "Odważny"
+bmboldset_description_TW: "Zwiększa twoje obrażenia włóczniami o 8%."
+carapaceboldset_description_TW: "Zwiększa twoje obrażenia włóczniami o 10%."
+flametalboldset_description_TW: "Zwiększa twoje obrażenia włóczniami o 12%."
+legionset_TW: "Legion"
+carapacelegionset_description_TW: "Zwiększa twoje obrażenia włóczniami o 10%."
+flametallegionset_description_TW: "Zwiększa twoje obrażenia włóczniami o 12%."
+destructionset_TW: "Zniszczenie"
+carapacedestructionset_description_TW: "Zwiększa twoje obrażenia magią elementalną o 6%."
+tyraniumdestructionset_description_TW: "Zwiększa twoje obrażenia magią elementalną o 12%."
+sacrificeset_TW: "Ofiara"
+
+## ZBROJE ##
+helmet_leather_TW: "Kaptur Jelenia"
+helmet_leather_description_TW: "Twardy skórzany kaptur ozdobiony porożami."
+armorchest_leather_TW: "Skórzana tunika Jelenia"
+amorchest_leather_description_TW: "Miękka skórzana tunika, która pozwala swobodnie poruszać się."
+armorlegs_leather_TW: "Skórzane spodnie Jelenia"
+amorlegs_leather_description_TW: "Miękkie czerwone skórzane spodnie."
+cape_trollblack_TW: "Czarna peleryna trolla"
+cape_trollblack_description_TW: "Idealna do ukrywania się w cieniach."
+
+## PASKI ##
+belt_ymir_TW: "Pasek Ymira"
+belt_ymir_description_TW: "Mówi
+
+## ŁOTR ##
+## Brąz ##
+helmet_bronzerogue_TW: "Kaptur Mordercy"
+helmet_bronzerogue_description_TW: "Czarny barwnik skórzany kaptur, który ukrywa twoją twarz."
+armorchest_bronzerogue_TW: "Tunika Mordercy"
+armorchest_bronzerogue_description_TW: "Czarny barwnik skórzana tunika."
+armorlegs_bronzerogue_TW: "Spodnie Mordercy"
+armorlegs_bronzerogue_description_TW: "Ciche jak grób."
+## Żelazo ##
+helmet_ironrogue_TW: "Wzmocniony żelazem kaptur Mordercy"
+helmet_ironrogue_description_TW: "Skórzany kaptur, który ukrywa twoją twarz."
+armorchest_ironrogue_TW: "Wzmocniona żelazem tunika Mordercy"
+armorchest_ironrogue_description_TW: "Żelazem wzmocniona skórzana tunika."
+armorlegs_ironrogue_TW: "Wzmocnione żelazem spodnie Mordercy"
+armorlegs_ironrogue_description_TW: "Ciche jak grób."
+## Srebro ##
+helmet_silverrogue_TW: "Srebrno-wzmocniony kaptur Mordercy"
+helmet_silverrogue_description_TW: "Skórzany kaptur, który ukrywa twoją twarz."
+armorchest_silverrogue_TW: "Srebrno-wzmocniona tunika Mordercy"
+armorchest_silverrogue_description_TW: "Srebrno wzmocniona skórzana tunika."
+armorlegs_silverrogue_TW: "Srebrno-wzmocnione spodnie Mordercy"
+armorlegs_silverrogue_description_TW: "Ciche jak grób."
+## Czarna stal ##
+helmet_bmrogue_TW: "Czarno-stalowy kaptur Mordercy"
+helmet_bmrogue_description_TW: "Skórzany kaptur, który ukrywa twoją twarz."
+armorchest_bmrogue_TW: "Czarno-stalowa tunika Mordercy"
+armorchest_bmrogue_description_TW: "Czarno-stalowo wzmocniona skórzana tunika."
+armorlegs_bmrogue_TW: "Czarno-stalowo-wzmocnione spodnie Mordercy"
+armorlegs_bmrogue_Description_TW: "Ciche jak grób."
+## Karapaks ##
+helmet_carapacerogue_TW: "Karapaks-wzmocniony kaptur Mordercy"
+helmet_carapacerogue_description_TW: "Skórzany kaptur, który ukrywa twoją twarz."
+armorchest_carapacerogue_TW: "Karapaks-wzmocniona tunika Mordercy"
+armorchest_carapacerogue_description_TW: "Karapaks wzmocniona skórzana tunika."
+armorlegs_carapacerogue_TW: "Karapaks-wzmocnione spodnie Mordercy"
+armorlegs_carapacerogue_description_TW: "Ciche jak grób."
+## Tyran ##
+helmet_tyraniumrogue_TW: "Tyranium-wzmocniony kaptur Mordercy"
+helmet_tyraniumrogue_description_TW: "Skórzany kaptur, który ukrywa twoją twarz."
+armorchest_tyraniumrogue_TW: "Tyranium-wzmocniona tunika Mordercy"
+armorchest_tyraniumrogue_description_TW: "Tyranium wzmocniona skórzana tunika."
+armorlegs_tyraniumrogue_TW: "Tyranium-wzmocnione spodnie Mordercy"
+armorlegs_tyraniumrogue_description_TW: "Ciche jak grób."
+
+## ENEGETYCZNY ##
+## Brąz ##
+helmet_bronzevigorous_TW: "Hełm Najeźdźcy"
+helmet_bronzevigorous_description_TW: "Brązowy hełm chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_bronzevigorous_TW: "Kamizelka Najeźdźcy"
+armorchest_bronzevigorous_Description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_bronzevigorous_TW: "Spodnie Najeźdźcy"
+armorlegs_bronzevigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+## Żelazo ##
+helmet_ironvigorous_TW: "Wzmocniony żelazem hełm Najeźdźcy"
+helmet_ironvigorous_description_TW: "Żelazny hełm chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_ironvigorous_TW: "Wzmocniona żelazem kamizelka Najeźdźcy"
+armorchest_ironvigorous_description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_ironvigorous_TW: "Wzmocnione żelazem spodnie Najeźdźcy"
+armorlegs_ironvigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+## Srebro ##
+helmet_silvervigorous_TW: "Srebrno-wzmocniony hełm Najeźdźcy"
+helmet_silvervigorous_description_TW: "Srebrny hełm chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_silvervigorous_TW: "Srebrno-wzmocniona kamizelka Najeźdźcy"
+armorchest_silvervigorous_description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_silvervigorous_TW: "Srebrno-wzmocnione spodnie Najeźdźcy"
+armorlegs_silvervigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+## CZARNA STAL ##
+helmet_bmvigorous_TW: "Czarno-stalowy hełm Najeźdźcy"
+helmet_bmvigorous_description_TW: "Hełm z czarnej stali chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_bmvigorous_TW: "Czarno-stalowo-wzmocniona kamizelka Najeźdźcy"
+armorchest_bmvigorous_description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_bmvigorous_TW: "Czarno-stalowo-wzmocnione spodnie Najeźdźcy"
+armorlegs_bmvigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+## KARAPAKS ##
+helmet_carapacevigorous_TW: "Karapaks-wzmocniony hełm Najeźdźcy"
+helmet_carapacevigorous_description_TW: "Hełm z karapaksu chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_carapacevigorous_TW: "Karapaks-wzmocniona kamizelka Najeźdźcy"
+armorchest_carapacevigorous_description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_carapacevigorous_TW: "Karapaks-wzmocnione spodnie Najeźdźcy"
+armorlegs_carapacevigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+## TYRANIUM ##
+helmet_tyraniumvigorous_TW: "Tyranium-wzmocniony hełm Najeźdźcy"
+helmet_tyraniumvigorous_description_TW: "Hełm z tyranium chroniący twoją czaszkę przed śmiertelnymi ciosami."
+armorchest_tyraniumvigorous_TW: "Tyranium-wzmocniona kamizelka Najeźdźcy"
+armorchest_tyraniumvigorous_description_TW: "Luźna kamizelka z metalową ochroną."
+armorlegs_tyraniumvigorous_TW: "Tyranium-wzmocnione spodnie Najeźdźcy"
+armorlegs_tyraniumvigorous_description_TW: "Doskonałe do rajdów i nocnych przyjęć!"
+
+## WOJOWNIK ##
+## ŻELAZO ##
+helmet_warrior_TW: "Hełm Wojownika"
+helmet_warrior_description_TW: "Solidny żelazny hełm, odpowiedni dla wojownika."
+armorchest_warrior_TW: "Skalna zbroja Wojownika"
+armorchest_warrior_description_TW: "Solidna skalna zbroja chroniąca wnętrzności."
+armorlegs_warrior_TW: "Nohawki Wojownika"
+armorlegs_warrior_description_TW: "Wełniane spodnie z metalicznym połyskiem ochronnym."
+## SREBRO ##
+helmet_silverwarrior_TW: "Srebrno-wzmocniony Hełm Wojownika"
+helmet_silverwarrior_description_TW: "Solidny srebrny hełm, odpowiedni dla wojownika."
+armorchest_silverwarrior_TW: "Srebrno-wzmocniona Skalna zbroja Wojownika"
+armorchest_silverwarrior_description_TW: "Solidna skalna zbroja chroniąca wnętrzności."
+armorlegs_silverwarrior_TW: "Srebrno-wzmocnione Nohawki Wojownika"
+armorlegs_silverwarrior_description_TW: "Wełniane spodnie z metalicznym połyskiem ochronnym."
+## CZARNA STAL ##
+helmet_bmwarrior_TW: "Czarno-stalowy wzmocniony Hełm Wojownika"
+helmet_bmwarrior_description_TW: "Solidny hełm z czarnej stali, odpowiedni dla wojownika."
+armorchest_bmwarrior_TW: "Czarno-stalowo-wzmocniona Skalna zbroja Wojownika"
+armorchest_bmwarrior_description_TW: "Solidna skalna zbroja chroniąca wnętrzności."
+armorlegs_bmwarrior_TW: "Czarno-stalowo-wzmocnione Nohawki Wojownika"
+armorlegs_bmwarrior_description_TW: "Wełniane spodnie z metalicznym połyskiem ochronnym."
+## KARAPAKS ##
+helmet_carapacewarrior_TW: "Karapaks-wzmocniony Hełm Wojownika"
+helmet_carapacewarrior_description_TW: "Solidny hełm z karapaksu, odpowiedni dla wojownika."
+armorchest_carapacewarrior_TW: "Karapaks-wzmocniona Skalna zbroja Wojownika"
+armorchest_carapacewarrior_description_TW: "Solidna skalna zbroja chroniąca wnętrzności."
+armorlegs_carapacewarrior_TW: "Karapaks-wzmocnione Nohawki Wojownika"
+armorlegs_carapacewarrior_description_TW: "Wełniane spodnie z metalicznym połyskiem ochronnym."
+## FLAMETAL ##
+helmet_flametalwarrior_TW: "Flametal-wzmocniony Hełm Wojownika"
+helmet_flametalwarrior_description_TW: "Solidny hełm z flametalu, odpowiedni dla wojownika."
+armorchest_flametalwarrior_TW: "Flametal-wzmocniona Skalna zbroja Wojownika"
+armorchest_flametalwarrior_description_TW: "Solidna skalna zbroja chroniąca wnętrzności."
+armorlegs_flametalwarrior_TW: "Flametal-wzmocnione Nohawki Wojownika"
+armorlegs_flametalwarrior_description_TW: "Wełniane spodnie z metalicznym połyskiem ochronnym."
+
+## VIDAR ##
+## SREBRO ##
+helmet_vidar_TW: "Oblicze Vidara"
+helmet_vidar_description_TW: "Inspirowane, srebrne oblicze zdobione mosiądzem. Doskonale pasuje do Huskarla."
+armorchest_vidar_TW: "Kolczuga Vidara"
+armorchest_vidar_description_TW: "Trwała kolczuga z futrem, chroniąca przed surowym klimatem."
+armorlegs_vidar_TW: "Skórzane legginsy Vidara"
+armorlegs_vidar_description_TW: "Wygodne, futrzane spodnie. Nigdy ich nie zdejmiesz!"
+## CZARNA STAL ##
+helmet_bmvidar_TW: "Czarno-stalowo-wzmocnione Oblicze Vidara"
+helmet_bmvidar_description_TW: "Brutalne, czarno-stalowe oblicze zdobione kolcami. Doskonale pasuje do Huskarla."
+armorchest_bmvidar_TW: "Czarno-stalowo-wzmocniona Kolczuga Vidara"
+armorchest_bmvidar_description_TW: "Trwała kolczuga z futrem, chroniąca przed surowym klimatem."
+armorlegs_bmvidar_TW: "Czarno-stalowo-wzmocnione Skórzane legginsy Vidara"
+armorlegs_bmvidar_DESCRIPTION_TW: "Wygodne, futrzane spodnie. Nigdy ich nie zdejmiesz!"
+## KARAPAKS ##
+helmet_carapacevidar_TW: "Karapaksowo-wzmocnione Oblicze Vidara"
+helmet_carapacevidar_description_TW: "Inspirowane, karapaksove oblicze. Doskonale pasuje do Jarla."
+armorchest_carapacevidar_TW: "Karapaksowo-wzmocniona Kolczuga Vidara"
+armorchest_carapacevidar_description_TW: "Trwała kolczuga z futrem, chroniąca przed surowym klimatem."
+armorlegs_carapacevidar_TW: "Karapaksowo-wzmocnione Skórzane legginsy Vidara"
+armorlegs_carapacevidar_description_TW: "Wygodne, futrzane spodnie. Nigdy ich nie zdejmiesz!"
+## FLAMETAL ##
+helmet_flametalvidar_TW: "Flametalowo-wzmocnione Oblicze Vidara"
+helmet_flametalvidar_description_TW: "Inspirowane, flametalowe oblicze. Doskonale pasuje do Konungra."
+armorchest_flametalvidar_TW: "Flametalowo-wzmocniona Kolczuga Vidara"
+armorchest_flametalvidar_description_TW: "Trwała kolczuga z futrem, chroniąca przed surowym klimatem."
+armorlegs_flametalvidar_TW: "Flametalowo-wzmocnione Skórzane legginsy Vidara"
+armorlegs_flametalvidar_description_TW: "Wygodne, futrzane spodnie. Nigdy ich nie zdejmiesz!"
+
+## FENRIR ##
+## SREBRO ##
+helmet_fenrir_TW: "Kaptur Fenrira"
+helmet_fenrir_description_TW: "Kaptur z futra wilka, czujesz nieodpartą ochotę na krew."
+armorchest_fenrir_TW: "Tunika Fenrira"
+armorchest_fenrir_DESCRIPTION_TW: "Tunika z futra wilka, czy tu nie pachnie jak mokry pies?"
+armorlegs_fenrir_TW: "Legginsy Fenrira"
+armorlegs_fenrir_description_TW: "Legginsy z futra wilka, pełne wszy!."
+## CZARNA STAL ##
+helmet_bmfenrir_TW: "Czarno-stalowo-wzmocniony Kaptur Fenrira"
+helmet_bmfenrir_description_TW: "Kaptur z futra wilka, czujesz nieodpartą ochotę na krew."
+armorchest_bmfenrir_TW: "Czarno-stalowo-wzmocniona Tunika Fenrira"
+armorchest_bmfenrir_DESCRIPTION_TW: "Tunika z futra wilka, czy tu nie pachnie jak mokry pies?"
+armorlegs_bmfenrir_TW: "Czarno-stalowo-wzmocnione Legginsy Fenrira"
+armorlegs_bmfenrir_DESCRIPTION_TW: "Legginsy z futra wilka, pełne wszy!"
+## KARAPAKS ##
+helmet_carapacefenrir_TW: "Karapaksowo-wzmocniony Kaptur Fenrira"
+helmet_carapacefenrir_description_TW: "Kaptur z futra wilka, czujesz nieodpartą ochotę na krew."
+armorchest_carapacefenrir_TW: "Karapaksowo-wzmocniona Tunika Fenrira"
+armorchest_carapacefenrir_DESCRIPTION_TW: "Tunika z futra wilka, czy tu nie pachnie jak mokry pies?"
+armorlegs_carapacefenrir_TW: "Karapaksowo-wzmocnione Legginsy Fenrira"
+armorlegs_carapacefenrir_DESCRIPTION_TW: "Legginsy z futra wilka, pełne wszy!"
+## TYRANIUM ##
+helmet_tyraniumfenrir_TW: "Tyraniumowo-wzmocniony Kaptur Fenrira"
+helmet_tyraniumfenrir_DESCRIPTION_TW: "Kaptur z futra wilka, czujesz nieodpartą ochotę na krew."
+armorchest_tyraniumfenrir_TW: "Tyraniumowo-wzmocniona Tunika Fenrira"
+armorchest_tyraniumfenrir_DESCRIPTION_TW: "Tunika z futra wilka, czy tu nie pachnie jak mokry pies?"
+armorlegs_tyraniumfenrir_TW: "Tyraniumowo-wzmocnione Legginsy Fenrira"
+armorlegs_tyraniumfenrir_DESCRIPTION_TW: "Legginsy z futra wilka, pełne wszy!"
+
+## BOLD ##
+## CZARNA STAL ##
+helmet_bold_TW: "Hełm Łowcy Halebard"
+helmet_bold_DESCRIPTION_TW: "Solidny, czarno-stalowy hełm łańcuchowy, chroniący twoją ładną twarz przed nieprzyjemnościami!"
+armorchest_bold_TW: "Kiras Łowcy Halebard"
+armorchest_bold_DESCRIPTION_TW: "Kirys z płyt metalowych i skóry, umożliwiający swobodne poruszanie się w walce."
+armorlegs_bold_TW: "Nagolenniki Łowcy Halebard"
+armorlegs_bold_DESCRIPTION_TW: "Ochronne nagolenniki, oferujące solidną ochronę!"
+## KARAPAKS ##
+helmet_carapacebold_TW: "Karapaksowo-wzmocniony Hełm Łowcy Halebard"
+helmet_carapacebold_DESCRIPTION_TW: "Solidny karapaksowy hełm łańcuchowy, chroniący twoją ładną twarz przed nieprzyjemnościami!"
+armorchest_carapacebold_TW: "Karapaksowo-wzmocniona Kiras Łowcy Halebard"
+armorchest_carapacebold_DESCRIPTION_TW: "Kirys z płyt metalowych i skóry, umożliwiający swobodne poruszanie się w walce."
+armorlegs_carapacebold_TW: "Karapaksowo-wzmocnione Nagolenniki Łowcy Halebard"
+armorlegs_carapacebold_DESCRIPTION_TW: "Ochronne nagolenniki, oferujące solidną ochronę!"
+## FLAMETAL ##
+helmet_flametalbold_TW: "Flametalowo-wzmocniony Hełm Łowcy Halebard"
+helmet_flametalbold_DESCRIPTION_TW: "Solidny flametalowy hełm łańcuchowy, chroniący twoją ładną twarz przed nieprzyjemnościami!"
+armorchest_flametalbold_TW: "Flametalowo-wzmocniona Kiras Łowcy Halebard"
+armorchest_flametalbold_DESCRIPTION_TW: "Kirys z płyt metalowych i skóry, umożliwiający swobodne poruszanie się w walce."
+armorlegs_flametalbold_TW: "Flametalowo-wzmocnione Nagolenniki Łowcy Halebard"
+armorlegs_flametalbold_DESCRIPTION_TW: "Ochronne nagolenniki, oferujące solidną ochronę!"
+
+## LEGION ##
+## KARAPAKS ##
+helmet_legion_TW: "Maseczka Skirmishera"
+helmet_legion_DESCRIPTION_TW: "Skalista karapaksowa maseczka zdobiona szczękami."
+armorchest_legion_TW: "Naramiennik Skirmishera"
+armorchest_legion_DESCRIPTION_TW: "Naramiennik z kolczugą z płyt karapaksu i egzotycznej skóry."
+armorlegs_legion_TW: "Spodnie Skirmishera"
+armorlegs_legion_DESCRIPTION_TW: "Parze powleczone skórą, aby trzymać kleszcze z daleka."
+## FLAMETAL ##
+helmet_flametallegion_TW: "Flametalowo-wzmocniona Maseczka Skirmishera"
+helmet_flametallegion_DESCRIPTION_TW: "Skalista flametalowa maseczka zdobiona szczękami."
+armorchest_flametallegion_TW: "Flametalowo-wzmocniony Naramiennik Skirmishera"
+armorchest_flametallegion_DESCRIPTION_TW: "Naramiennik z kolczugą z płyt flametalu i egzotycznej skóry."
+armorlegs_flametallegion_TW: "Flametalowo-wzmocnione Spodnie Skirmishera"
+armorlegs_flametallegion_DESCRIPTION_TW: "Parze powleczone skórą, aby trzymać kleszcze z daleka."
+
+## DESTRUKCJA ##
+## KARAPAKS ##
+helmet_destruction_TW: "Kaptur Czarodzieja"
+helmet_destruction_description_TW: "Czujesz, jak w tobie rosną destrukcyjne moce."
+armorchest_destruction_TW: "Strój Czarodzieja"
+armorchest_destruction_description_TW: "Elegancka szata godna czarodzieja."
+armorlegs_destruction_TW: "Spellkickers"
+armorlegs_destruction_description_TW: "Trzeba być zwinny, by uciec podczas drażnienia magią."
+## FLAMETAL ##
+helmet_tyraniumdestruction_TW: "Zamarznięty Kaptur Czarodzieja"
+helmet_tyraniumdestruction_description_TW: "Czujesz, jak w tobie rosną destrukcyjne moce."
+armorchest_tyraniumdestruction_TW: "Zamarznięty Strój Czarodzieja"
+armorchest_tyraniumdestruction_description_TW: "Elegancka szata godna czarodzieja."
+armorlegs_tyraniumdestruction_TW: "Zamarznięte Spellkickers"
+armorlegs_tyraniumdestruction_description_TW: "Trzeba być zwinny, by uciec podczas drażnienia magią."
+
+## POŚWIĘCENIE ##
+## KARAPAKS ##
+helmet_sacrifice_TW: "Rytualna Maska"
+helmet_sacrifice_description_TW: "Słyszysz głosy wzywające z zaświatów."
+armorchest_sacrifice_TW: "Strój Nekromanty"
+armorchest_sacrifice_description_TW: "Stara, zakurzona szata nekromanty. Czy to kiedykolwiek zostało umyte?"
+armorlegs_sacrifice_TW: "Gravedancers"
+armorlegs_sacrifice_description_TW: "Te buty są stworzone do grabieżycy grobów, i dokładnie to zrobią!"
+## FLAMETAL ##
+helmet_flametalsacrifice_TW: "Demonicznie-zamarznięta Rytualna Maska"
+helmet_flametalsacrifice_description_TW: "Słyszysz głosy wzywające z zaświatów."
+armorchest_flametalsacrifice_TW: "Demonicznie-zamarznięty Strój Nekromanty"
+armorchest_flametalsacrifice_description_TW: "Stara, zakurzona szata nekromanty. Czy to kiedykolwiek zostało umyte?"
+armorlegs_flametalsacrifice_TW: "Demonicznie-zamarznięte Gravedancers"
+armorlegs_flametalsacrifice_description_TW: "Te buty są stworzone do grabieżycy grobów, i dokładnie to zrobią!"
+
+## HEŁMY ##
+helmet_ursabear_TW: "Kaptur Niedźwiedzia Ursa"
+helmet_ursabear_description_TW: "Trofeum myśliwego na niedźwiedzie."
+helmet_blackbear_TW: "Kaptur Czarnego Niedźwiedzia"
+helmet_blackbear_description_TW: "Trofeum myśliwego na niedźwiedzie."
+helmet_grizzlybear_TW: "Kaptur Grizzly"
+helmet_grizzlybear_DESCRIPTION_TW: "Trofeum myśliwego na niedźwiedzie."
+bearhelmetbuff_TW: "Moc"
+
+## ZESTAW ULLR ##
+helmet_ullr_TW: "Korona Ullra"
+helmet_ullr_description_TW: "Legendarny myśliwski hełm z zestawu Ullra."
+armor_ullrchest_TW: "Dusza Ullra"
+armor_ullrchest_description_TW: "Legendarna myśliwska tunika z zestawu Ullra."
+armor_ullrlegs_TW: "Wytrzymałość Ullra"
+armor_ullrlegs_description_TW: "Legendarne myśliwskie buty z zestawu Ullra."
+ullrset_TW: "Błogosławieństwo Ullra"
+ullrset_description_TW: "Zwiększa obrażenia z łuków o 15%."
+set_ullr_TW: "Ullr"
