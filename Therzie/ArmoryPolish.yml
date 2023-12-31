@@ -1,10 +1,10 @@
-## TŁUMACZENIE NA JEZYK POLSKI ARMORY ##
+#POLISH TRANSLATION O THERZIE"S ARMORY MOD#
 
-## STACJA KUŹNICZA ##
+##CRAFTING STATION##
 piece_armory_TW: "Zbrojownia"
-piece_armory_description_TW: "Stacja kraftująca zbroje"
+piece_armory_description_TW: "Zbrojownia pozwala przekuwać pancerze bazowe na setowe."
 
-## KAWKA ##
+##RAVEN##
 armory_topic_TW: "Zbudowałeś zbrojownię!"
 armory_text_TW: "Możesz ulepszać stare zbroje w zbrojowni na nowe magiczne wersje, które można następnie ulepszać do następnego biomu za pomocą odpowiednich materiałów. Jest też wbudowany piec hutniczy i skrzynia na przechowywanie!"
 
