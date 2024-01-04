@@ -1,0 +1,8 @@
+{
+    "prefabID": "piece_chest_cargo",
+    "name": "Ładunek",
+    "description": "Niewielka skrzynia z 4 gniazdami wykonana ze smołowanego drewna.",
+    "containerName": "Ładunek",
+    "tableName": "",
+    "hoverName": ""
+}

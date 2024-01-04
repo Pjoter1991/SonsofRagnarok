@@ -1,0 +1,8 @@
+{
+    "prefabID": "grilled_meat",
+    "name": "Grillowane Mięso",
+    "description": "$grilled_meat_desc",
+    "containerName": "",
+    "tableName": "",
+    "hoverName": ""
+}
