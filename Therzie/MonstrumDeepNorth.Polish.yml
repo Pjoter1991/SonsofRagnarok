@@ -1,0 +1,110 @@
+#POLISH TRANSLATION MONSTRUM-DEEPNORTH#
+
+##MOUNT##
+saddle_mammoth_TW: "Siodło dla Mamuta"
+saddle_mammoth_description_TW: "Używane do jazdy na Mamucie, trzymaj się mocno!"
+
+##PIECES##
+piece_rug_ursabear_TW: "Dywan z Niedźwiedzia Polarnego"
+piece_rug_mammoth_TW: "Dywan z Mamuta"
+
+##ITEMS##
+deepnorth_dragonegg_TW: "Lodowe jajo smoka"
+deepnorth_dragonegg_description_TW: "Zamrożone jajo smoka z gniazda na Dalekiej Północy."
+
+##DEEP NORTH TROPHIES##
+trophy_arcticbear_TW: "Trofeum Niedźwiedzia Polarnego"
+trophy_arcticbear_description_TW: "Z daleka wygląda na uroczą i przytulną, z bliska już nie tak bardzo."
+trophy_arcticbear_TW_lore: "Gigantyczne niedźwiedzie polarne z Dalekiej Północy to dzikie drapieżniki, potrafią wyczuć zdobycz z kilometrów!"
+trophy_arcticfenringcultist_TW: "Trofeum Arktycznego Kultysty"
+trophy_arcticfenringcultist_description_TW: "Mały Niebieski Kapturku, babcia ma tylko przeziębienie!"
+trophy_arcticfenringcultist_TW_lore: "Włądający mrozem Arktyczni Kultyści pojawiają się w ciemne, zimne noce."
+trophy_arcticfenring_TW: "Trofeum Arktycznego Fenringa"
+trophy_arcticfenring_description_TW: "Zawsze dobrze jest mieć dodatkowy zestaw rąk."
+trophy_arcticfenring_TW_lore: "Łowcy grasują po zamarzniętej tundrze, szukając swojej kolejnej ofiary."
+trophy_arcticgolem_TW: "Trofeum Lodowego Golema"
+trophy_arcticgolem_description_TW: "Piękny zimny pulsujący kryształ, idealny do schłodzenia piwa!"
+trophy_arcticgolem_TW_lore: "Lodowe golemy to magiczne istoty, przywoływane z najgłębszego jądra lodowca."
+trophy_arcticdrake_TW: "Trofeum Lodowego Smoka"
+trophy_arcticdrake_description_TW: "Jeśli myślałeś, że oparzenie ogniem boli, spróbuj oparzyć się mrozem!"
+trophy_arcticdrake_TW_lore: "Lodowe drakony panują na niebie Dalekiej Północy, nikt nie jest bezpieczny przed ich lodowatym gniewem."
+trophy_jotunnbrute_TW: "Trofeum Jotunna Berserkera"
+trophy_jotunnbrute_description_TW: "Barwny malunek na twarzy wskazuje, do jakiego klanu należą."
+trophy_jotunnbrute_TW_lore: "Jotunnowie przysięgli nienawiść tym, których wybrał Jednooki Ojciec, nie cofną się przed niczym, aby zmiażdżyć twoją czaszkę lub zjeść twoją nogę na obiad!"
+trophy_arcticmammoth_TW: "Trofeum Mamuta"
+trophy_arcticmammoth_description_TW: "Będziesz potrzebować kilku dodatkowych gwoździ, aby zamocować to trofeum..."
+trophy_arcticmammoth_TW_lore: "Mamuty to szlachetne bestie, żyją w stadach, aby chronić swoje młode przed licznymi zagrożeniami, które grasują na Dalekiej Północy."
+trophy_arcticserpent_TW: "Trofeum Arktycznego Węża"
+trophy_arcticserpent_description_TW: "Wężowi Dalekiej Północy brakuje szerokiej czaszki w porównaniu ze swoimi kuzynami."
+trophy_arcticserpent_TW_lore: "Arktyczne Węże polują na wybrzeżach, plując śmiercionośnym mrozem z daleka."
+trophy_arcticwolf_TW: "Trofeum Arktycznego Wilka"
+trophy_arcticwolf_description_TW: "Doskonały biały kamuflaż, uważaj, żeby go nie upuścić, bo zgubisz go w śniegu!"
+trophy_arcticwolf_TW_lore: "Wilki grasują po tundrze, polując w stadach, nie można ich lekceważyć."
+trophy_jotunncrusher_TW: "Trofeum Jotunna Burzyciela"
+trophy_jotunncrusher_description_TW: "Ciężko uzbrojeni giganci z mózgiem o rozmiarze orzecha włoskiego, lepiej nie powtarzaj im dowcipów Strasburgera."
+trophy_jotunncrusher_TW_lore: "To, czego brakuje im w inteligencji, rekompensują brutalnością i dzikością, ci Jotunnowie są znani z miażdżenia swoich wrogów jak mrówki!"
+
+##DEEPNORTH##
+arcticbear_TW: "Arktyczny niedźwiedź"
+arcticbearcub_TW: "Młody arktyczny niedźwiedź"
+arcticfenring_TW: "Arktyczny fenring"
+arcticfenringcultist_TW: "Arktyczny kultysta"
+arcticgolem_TW: "Lodowy golem"
+arcticdrake_TW: "Lodowy smok"
+jotunnbrute_TW: "Jotunn Berserker"
+jotunncrusher_TW: "Jotunn Burzyciel"
+arcticmammoth_TW: "Mamut"
+arcticserpent_TW: "Arktyczny Wąż"
+arcticwolf_TW: "Arktyczny wilk"
+arcticwolfcub_TW: "Arktyczne wilcze młode"
+fenrischampion_TW: "Fenris naczelny"
+
+##LOCATIONS##
+jotunnlairgateway_TW: "Jama Jotunna"
+frozenchest_TW: "Zamrożona skrzynia"
+frozenmammothbones_TW: "Zamrożone kości mamuta"
+
+##FENRIS DUNGEON##
+stormwolf_TW: "Wilczur burzy"
+##STORM HERALD##
+stormtemple_discover_TW: "Świątynia burzy"
+stormheraldgateway_TW: "Taras świątyni"
+stormtemple_gate_TW: "Brama z czarnego lodu"
+boss_stormherald_TW: "Herold Burzy"
+trophy_stormherald_TW: "Trofeum Herolda Burzy"
+trophy_stormherald_description_TW: "Nawet po śmierci trofeum wytwarza iskrzące się pole z ładunkiem statycznym..."
+trophy_stormherald_TW_lore: "Sagi opowiadają nam o Wywoływaczach Burzy, najbardziej sprytnych krewnych Fenrira. W tajemnicy ukradli wiedzę Wszechojca, nauczyli się tkać destrukcyjną magie Boga Piorunów wedle swojej woli. Szukają oni mocy, aby złamać magiczne łańcuchy swojego mistrza i wreszcie wyzwolić Ragnarok na dziewięć światów."
+deadspeak_stormherald: "Moja porażka tylko spowalnia waszą nieuchronną zagładę, śmiertelnicy.. mój pan Fenris uwolni się ze swoich kajdan!"
+altar_stormherald_TW: "Rytualny kamień z tyranium"
+altar_stormherald_description_TW: "Jeźdź na błyskawicach!"
+stormherald_summon: "Wezwałeś Herolda Burzy!"
+stormherald_defeat: "Pokonałeś Tkacza Burzy!"
+scrolltext_stormherald_TW: "Tajemniczy zwoj"
+scrolltext_stormherald_description_TW: "Rozszyfrowałeś glify Fenrira: 'Widzący, rozkazuję tobie i twoim braciom, abyście zgromadzili więcej Elementium, aby wzmocnić moje armie. Owińcie ten świat burzami, bo mój powrót musi pozostać tajemnicą. Wkrótce zostanę uwolniony i połknę słońce całe, gdy będziemy walczyć z armiami Asgardu podczas Ragnarok.'"
+runestone_stormherald_TW: "Jeźdźcy burzy"
+runestone_stormherald_description_TW: "Zaklinacz burz, RAIDHO Tkacz błyskawic, JARA Łamacz łańcuchów, FEHU"
+key_stormtemple_TW: "Klucz świątyni burzy"
+key_stormtemple_description_TW: "Ten klucz otworzy bramę do Świątyni Burzy"
+mappin_stormherald_TW: "Herold Burzy"
+stormherald_speech1: "Fenris doprowadzi do klęski tego świata!"
+stormherald_speech2: "Jestem głosem burzy!"
+stormherald_speech3: "Nie możesz nas powstrzymać przed uwolnieniem Uwięzionego!"
+stormherald_speech4: "Piorun uderza dwa razy! Muhaha!"
+stormherald_speech5: "Posmakuj furii burzy!"
+stormherald_speech6: "Furia burzy!"
+sacrificialstone_stormherald_TW: "Upiorny ryk grzmotu niesie się na Północy, szepty sprytnych czarowników, którzy snują potężne burze, knując w tajemnicy, aby uwolnić swojego mistrza ze łańcuchów."
+forsakenpower_stormherald: "Burza"
+forsakenpower_stormherald_description: "Nadaje ci pulsującą prędkość i moc burzy."
+forsakenpower_stormherald_usage: "Czujesz, jak moc burzy wzrasta w tobie."
+mappin_stonesDeepNorth_TW: "Starożytne kamienie"
+
+##LORESTONE##
+lorestonethor_TW: "Kamień runiczny"
+lorestonethor_label_TW: "Zabójca Jotunnów"
+lorestonethor_description_TW: "Błogosławiony niech będzie potężny Pan, Pan grzmotu, błyskawic i burzy. Chwała tobie, mądry Panie, którego słowo jest zawiązaniem wiary. Chwała tobie, Panie mocy, gdy zło czai się u bram. Uderz, mój Panie, niech grzmi grzmot, niech uderzy młot, obrońco Midgardu, zawsze możemy na Tobie polegać."
+
+se_monstrum_paralyzeslow_TW: "Unieruchomienie"
+
+##RAVEN##
+stormtemple_topic_TW: "Brama jest zamknięta!"
+stormtemple_text_TW: "Za tą bramą czeka potężny wróg, być może znajdziesz wskazówki, jak wytworzyć klucz do jej otwarcia?"

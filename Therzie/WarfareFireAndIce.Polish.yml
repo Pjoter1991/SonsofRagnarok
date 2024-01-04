@@ -1,0 +1,292 @@
+##PIECES##
+piece_ymirforge_TW : "Kuźnia Ymira"
+piece_ymirforge_description_TW : "Stacja rzemieślnicza na Popielnych Ziemiach i w Głębokiej Północy"
+piece_ymirforge_ext1_TW : "Arktyczny stojak do garbowania"
+piece_ymirforge_ext1_description_TW : "Ulepszenie kuźni Ymira"
+piece_ymirforge_ext2_TW : "Kadź Tyranium"
+piece_ymirforge_ext2_description_TW : "Ulepszenie kuźni Ymira"
+piece_ymirforge_ext3_TW : "Starożytny młot"
+piece_ymirforge_ext3_description_TW : "Ulepszenie kuźni Ymira"
+piece_ymirforge_ext4_TW : "Zapomniane kowadło"
+piece_ymirforge_ext4_description_TW : "Ulepszenie kuźni Ymira"
+piece_blackforge_ext2_TW : "Czarne kowadło"
+piece_blackforge_ext2_description_TW : "Ulepszenie czarnej kuźni"
+piece_blackforge_ext3_TW : "Nasycony Eitrem kamień do ostrzenia broni"
+piece_blackforge_ext3_description_TW : "Ulepszenie czarnej kuźni"
+piece_runesphere_TW : "Runiczna sfera"
+piece_runesphere_description_TW : "Magiczna stacja rzemieślnicza"
+piece_borealPine_wall_log_TW : Borealna Belka
+piece_borealPine_wall_log_4_TW : Borealna Belka 4m
+piece_borealPine_log_TW : Borealny Pal
+piece_borealPine_log_4x_TW : Borealny Pal 4m
+piece_borealPine_log_26_TW : Borealna Belka 26°
+piece_borealPine_longlog_26_TW : Borealna Belka 4m 26°
+piece_borealPine_log_45_TW : Borealna Belka 45°
+piece_borealPine_longlog_45_TW : Borealna Belka 4m 45°
+
+
+
+##RAVEN##
+ymirforge_topic_TW : "Zbudowałeś kuźnię Ymira!"
+ymirforge_text_TW : "Na tej kuźni możesz kraftować potężne bronie zamieszczone w ogniu i lodzie."
+
+##WEAPONS##
+
+##ARROWS##  
+arrow_explosivefire_TW : "Wybuchowe strzały ognia"
+arrow_explosivefire_description_TW : "Strzały z płonącego metalu, które eksplodują po uderzeniu."
+arrow_explosivefrost_TW : "Wybuchowe strzały mrozu"
+arrow_explosivefrost_description_TW : "Strzały Tyranium, które eksplodują po uderzeniu."
+arrow_tyranium_TW : "Strzały z Tyranium"
+arrow_tyranium_description_TW : "Strzały Tyranium o dużej przebijającej sile."
+arrow_flametal_TW : "Strzały z Ogniometalu"
+arrow_flametal_description_TW : "Strzały z płonącego metalu o dużej przebijającej sile."
+
+##BOLTS##
+bolt_tyranium_TW : "Bełt z Tyranium"
+bolt_tyranium_description_TW : "Solidny pocisk tytanowy."
+bolt_flametal_TW : "Bełt z Ogniometalu"
+bolt_flametal_description_TW : "Solidny pocisk z płonącego metalu."
+bolt_explosivefire_TW : "Wybuchowy bełt ognia"
+bolt_explosivefire_description_TW : "Bełt ognia, który eksploduje po uderzeniu."
+bolt_explosivefrost_TW : "Wybuchowy bełt mrozu"
+bolt_explosivefrost_description_TW : "Bełt mrozu, który eksploduje po uderzeniu."
+
+##ATGEIRS##
+atgeir_njord_TW : "Atgeir Njorda"
+atgeir_njord_description_TW : "Runiczny atgeir zaklęty okrucieństwem Skrymira. Służy do przebijania i zamrażania wrogów."
+atgeir_surtr_TW : "Atgeir Surtra"
+atgeir_surtr_description_TW : "Ognisty atgeir zaklęty okrucieństwem Vulkariona. Służy do przebijania i palenia wrogów."
+
+##AXES##
+axe_njord_TW : "Topór Njorda"
+axe_njord_description_TW : "Runiczny topór zaklęty okrucieństwem Skrymira. Służy do ścinania i zamrażania wrogów lub drzew."
+axe_surtr_TW : "Topór Surtra"
+axe_surtr_description_TW : "Ognisty topór zaklęty okrucieństwem Vulkariona. Służy do ścinania i palenia wrogów lub drzew."
+
+##THROWING AXES##
+throw_axe_njord_TW : "Rzucany topór Njorda"
+throw_axe_njord_description_TW: "Runiczny Rzucany topór zaklęty okrucieństwem Skrymira, może być rzucony w wrogów, aby podzielić czaszkę na dwie!"
+throw_axe_surtr_TW : "Rzucany topór Surtra"
+throw_axe_surtr_description_TW: "Ognisty Rzucany topór zaklęty okrucieństwem Vulkariona, może być rzucony w wrogów, aby podzielić czaszkę na dwie!"
+
+##BATTLEAXES##
+battleaxe_njord_TW : "Topór bojowy Njorda"
+battleaxe_njord_description_TW: "Runiczny topór bojowy zaklęty okrucieństwem Skrymira. Służy do ścinania i zamrażania wrogów lub drzew."
+battleaxe_surtr_TW : "Topór bojowy Surtra"
+battleaxe_surtr_description_TW: "Ognisty topór bojowy zaklęty okrucieństwem Vulkariona. Służy do ścinania i palenia wrogów lub drzew."
+battleaxe_dragon_TW : "Zabójca smoków"
+battleaxe_dragon_description_TW: "Brutalny topór bojowy wykonany z kości smoka, służy do unicestwiania wrogów lub drzew."
+battleaxecrystal_sapphire_TW : "Topór bojowy z kryształem szafiru"
+battleaxecrystal_sapphire_description_TW: "Kryształ szafiru osadzony w śmiercionośnym, tytanowym toporze bojowym. Służy do ścinania i zamrażania wrogów lub drzew."
+battleaxecrystal_topaz_TW : "Topór bojowy z kryształem topazu"
+battleaxecrystal_topaz_description_TW: "Kryształ topazu osadzony w śmiercionośnym, toporze bojowym z płonącego metalu. Służy do ścinania i palenia wrogów lub drzew."
+
+##BATTLEHAMMERS##
+battlehammer_njord_TW : "Młot bojowy Njorda"
+battlehammer_njord_description_TW: "Runiczny młot bojowy zaklęty okrucieństwem Skrymira. Służy do miażdżenia i zamrażania wrogów."
+battlehammer_surtr_TW : "Młot bojowy Surtra"
+battlehammer_surtr_description_TW: "Ognisty młot bojowy zaklęty okrucieństwem Vulkariona. Służy do miażdżenia i palenia wrogów."
+
+##BOWS##
+bow_njord_TW : "Łuk Njorda"
+bow_njord_description_TW : "Runiczny łuk zaklęty okrucieństwem Skrymira. Służy do strzelania strzałami z dodatkowym obrażeniem mrozu w wrogów."
+bow_surtr_TW : "Łuk Surtra"
+bow_surtr_description_TW : "Ognisty łuk zaklęty okrucieństwem Vulkariona. Służy do strzelania strzałami z dodatkowym obrażeniem ognia w wrogów."
+bow_ullr_TW : "Cel Ullra"
+bow_ullr_description_TW : "Legendarny łuk myśliwski, służy do polowania na najpotężniejszych wrogów."
+greatbow_njord_TW : "Wielki łuk Njorda"
+greatbow_njord_description_TW : "Ciężko napinany wielki łuk zaklęty okrucieństwem Skrymira. Służy do strzelania strzałami z dodatkowym obrażeniem mrozu na duże odległości."
+greatbow_surtr_TW : "Wielki łuk Surtra"
+greatbow_surtr_description_TW : "Ciężko napinany wielki łuk zaklęty okrucieństwem Vulkariona. Służy do strzelania strzałami z dodatkowym obrażeniem ognia na duże odległości."
+
+##CROSSBOWS##
+crossbow_njord_TW : "Kusza Njorda"
+crossbow_njord_description_TW : "Wolna, ale śmiertelna kusza zaklęta okrucieństwem Skrymira. Służy do strzelania bełtami z dodatkowym obrażeniem mrozu w wrogów na dużą odległość."
+crossbow_surtr_TW : "Kusza Surtra"
+crossbow_surtr_description_TW : "Wolna, ale śmiertelna kusza zaklęta okrucieństwem Vulkariona. Służy do strzelania bełtami z dodatkowym obrażeniem ognia w wrogów na dużą odległość."
+
+##BASTARD SWORDS##
+bastard_njord_TW : "Miecz dwuręczny Njorda"
+bastard_njord_description_TW : "Runiczny miecz zaklęty okrucieństwem Skrymira. Służy do zamrażania i ścięcia wrogów."
+bastard_surtr_TW : "Miecz dwuręczny Surtra"
+bastard_surtr_description_TW : "Ognisty miecz zaklęty okrucieństwem Vulkariona. Służy do palenia i ścięcia wrogów."
+
+##CLAYMORES##
+claymore_njord_TW : "Claymore Njorda"
+claymore_njord_description_TW : "Runiczny claymore zaklęty okrucieństwem Skrymira. Służy do rozcinania i zamrażania wrogów na pół."
+claymore_surtr_TW : "Claymore Surtra"
+claymore_surtr_description_TW : "Ognisty claymore zaklęty okrucieństwem Vulkariona. Służy do rozcinania i palenia wrogów na pół."
+claymore_jotunn_TW : "Zguba Jotunnów"
+claymore_jotunn_description_TW : "Zamrożona ostrza używane do rozcinania i zamrażania wrogów na pół."
+
+##DUAL-BLADE##
+blade_glacier_TW : "Ostrze lodowe"
+blade_glacier_description_TW: "Zamrożone podwójne ostrze używane do skakania i siekania wrogów na kawałki lodu."
+blade_volcanic_TW : "Ostrze wulkaniczne"
+blade_volcanic_description_TW: "Roztopione podwójne ostrze używane do skakania i siekania wrogów na palące się kawałki."
+
+##DUAL WEAPONS##
+dual_axekrom_TW : "Topory Kroma"
+dual_axekrom_description_TW: "Śmiercionośna para toporów, stworzonych według projektu samego Aesira."
+dual_swordskadi_TW : "Miecze Skadi"
+dual_swordskadi_description_TW: "Magicznie zaklęta para zamrożonych ostrzy, stworzona na wzór złośliwego Skrymira."
+dual_hammerragehatred_TW : "Furia i Nienawiść"
+dual_hammerragehatred_description_TW: "Niszczycielska para ognistych młotów, stworzona na wzór okrutnego Vulkariona."
+dual_spearsvigafrekk_TW : "Sviga i Frekk"
+dual_spearsvigafrekk_description_TW: "Piękna para zaklętych włóczni, stworzona według projektu wielkiego kowala Regina."
+
+##FISTS##
+fist_njord_TW : "Kastety Njorda"
+fist_njord_description_TW: "Śmiercionośna runiczna broń do walki na pięści, zaklęta okrucieństwem Skrymira. Służy do powalania i zamrażania wrogów."
+fist_surtr_TW : "Kastety Surtra"
+fist_surtr_description_TW: "Ogniste kastety zaklęte okrucieństwem Vulkariona. Służą do powalania i podpalania wrogów."
+
+##GREATCLUB##
+greatclub_TW : "Gigantyczny kij"
+greatclub_description_TW : "Ciężki kij do miażdżenia wrogów."
+
+##KNIVES##
+knife_njord_TW : "Nóż Njorda"
+knife_njord_description_TW: "Runiczny nóż zaklęty okrucieństwem Skrymira. Służy do kłucia i zamrażania wrogów."
+knife_surtr_TW : "Nóż Surtra"
+knife_surtr_description_TW: "Ognisty nóż zaklęty okrucieństwem Vulkariona. Służy do kłucia i palenia wrogów."
+
+##MACE##
+mace_njord_TW : "Buzdygan Njorda"
+mace_njord_description_TW : "Runiczny buzdygan zaklęty okrucieństwem Skrymira. Służy do miażdżenia i zamrażania wrogów."
+mace_surtr_TW : "Buzdygan Surtra"
+mace_surtr_description_TW : "Ognisty młot zaklęty okrucieństwem Vulkariona. Służy do miażdżenia i palenia wrogów."
+
+##SLEDGE##
+sledge_njord_TW : "Młot Njorda"
+sledge_njord_description_TW : "Runiczny młot zaklęty okrucieństwem Skrymira. Służy do miażdżenia i zamrażania wrogów."
+sledge_surtr_TW : "Młot Surtra"
+sledge_surtr_description_TW : "Ognisty młot zaklęty okrucieństwem Vulkariona. Służy do miażdżenia i palenia wrogów."
+
+##SPEARS##
+spear_njord_TW : "Włócznia Njorda"
+spear_njord_description_TW : "Runiczna włócznia zaklęta okrucieństwem Skrymira. Służy do dziurawienia i zamrażania wrogów."
+spear_surtr_TW : "Włócznia Surtra"
+spear_surtr_description_TW : "Ognista włócznia zaklęta okrucieństwem Vulkariona. Służy do dziurawienia i palenia wrogów."
+lance_njord_TW : "Lanca Njorda"
+lance_njord_description_TW : "Runiczna Lanca zaklęta okrucieństwem Skrymira. Służy do przebijania i zamrażania wrogów z odległości."
+lance_surtr_TW : "Lanca Surtra"
+lance_surtr_description_TW : "Ognista Lanca zaklęta okrucieństwem Vulkariona. Służy do przebijania i palenia wrogów z odległości."
+
+##SWORDS##
+sword_njord_TW : "Miecz Njorda"
+sword_njord_description_TW : "Runiczny miecz zaklęty okrucieństwem Skrymira. Służy do kłucia i zamrażania wrogów."
+sword_surtr_TW : "Miecz Surtra"
+sword_surtr_description_TW : "Ognisty miecz zaklęty okrucieństwem Vulkariona. Służy do kłucia i palenia wrogów."
+
+##WARPIKES##
+warpike_njord_TW : "Bojowa włócznia Njorda"
+warpike_njord_description_TW : "Runiczna, solidna włócznia zaklęta okrucieństwem Skrymira. Służy do zamrażania i przebijania wrogów lub skakania do walki."
+warpike_surtr_TW : "Bojowa włócznia Surtra"
+warpike_surtr_description_TW : "Runiczna, solidna włócznia zaklęta okrucieństwem Vulkariona. Służy do palenia i przebijania wrogów lub skakania do walki."
+
+##STAVES##
+staff_storm_TW : "Tkacz Burz"
+staff_storm_description_TW : "Potężna różdżka piorunów do rażenia i paraliżowania przeciwników."
+staff_impdemon_TW : "Demoniczna Różdżka"
+staff_impdemon_description_TW : "Zaklęta czarnąmagiągłowa Impa, pozwalająca przyzywać demonicznych przyjaciół z Otchłani."
+staff_skrymir_TW : "Gniew Skrymira"
+staff_skrymir_description_TW : "Potężna lodowa różdżka, którą możesz zamrażać wrogów."
+
+##SHIELDS##
+shield_bucklerblackmetal_description_TW : "Puklerz z czarnego metalu, który może być używany do odbijania uderzeń wrogów przeciw nim."
+shield_bucklerflametal_TW : "Puklerz z Ogniometalu"
+shield_bucklerflametal_description_TW : "Puklerz z płonącego metalu, który może być używany do odbijania uderzeń wrogów przeciw nim."
+shield_bucklertyranium_TW : "Puklerz z Tyranium"
+shield_bucklertyranium_description_TW : "Puklerz  z Tyranium, który może być używany do odbijania uderzeń wrogów przeciw nim."
+shield_njord_TW : "Tarcza Njorda"
+shield_njord_description_TW : "Runiczna tarcza zaklęta okrucieństwem Skrymira. Służy do ochrony przed ciosami wrogów i zwiększa odporność na mróz."
+shield_njordtower_TW : "Obrońca plemienia Njorda"
+shield_njordtower_description_TW : "Runiczna wielka tarcza zaklęta okrucieństwem Skrymira. Służy do ochrony przed ciosami wrogów i zwiększa odporność na mróz."
+shield_surtr_TW : "Odbijak Surtra"
+shield_surtr_description_TW : "Ognista tarcza zaklęta okrucieństwem Vulkariona. Służy do ochrony przed ciosami wrogów i zwiększa odporność na ogień."
+shield_surtrtower_TW : "Bastion Surtra"
+shield_surtrtower_description_TW : "Ognista wielka tarcza zaklęta okrucieństwem Vulkariona. Służy do ochrony przed ciosami wrogów i zwiększa odporność na ogień."
+shield_arcticserpent_TW : "Tarcza z łusek Arktycznego Węża"
+shield_arcticserpent_description_TW : "Solidna wielka tarcza wykonana z mocnych łusek arktycznego węża. Służy do ochrony przed ciosami wrogów i atakami przebijającymi."
+
+##CAPES##
+cape_arcticwolf_TW : "Peleryna arktycznego wilka"
+cape_arcticwolf_description_TW : "Peleryna wykonana z futra arktycznego wilka, chroniąca przed zimnem."
+cape_ashenscale_TW : "Peleryna popiołowej skorupy"
+cape_ashenscale_description_TW : "Peleryna wykonana z łusek popiołowych, chroniąca przed gorącem."
+cape_mammoth_TW : "Peleryna arktycznego mamuta"
+cape_mammoth_description_TW : "Peleryna wykonana z futra mamuta, chroniąca przed zimnem."
+
+##TOOLS##
+pickaxe_njord_TW : "Kilof Njorda"
+pickaxe_njord_description_TW : "Wytrzymały kilof z tyranium, używany do wydobycia rudy i kamienia."
+pickaxe_surtr_TW : "Kilof Surtra"
+pickaxe_surtr_description_TW : "Wytrzymały kilof z ogniometalu, używany do wydobycia rudy i kamienia."
+
+##JEWELERY##
+ring_loki_TW : "Pragnienie wiedzy"
+ring_loki_description_TW : "Ulubiony magiczny artefakt spryciarza Lokiego."
+se_ring_loki_TW : "Wysoki przypływ"
+se_ring_loki_start_TW : "Czujesz, jak potężna magia przepływa przez ciebie."
+necklace_tyr_TW : "Męstwo"
+necklace_tyr_description_TW : "Najbardziej ukochana własność nieustraszonego Týra."
+se_necklace_tyr_TW : "Strażnik"
+se_necklace_tyr_start_TW : "Czujesz się nieustraszony."
+
+##MATERIALS##
+mat_frozenorb_TW : "Zamarznięty rdzeń"
+mat_frozenorb_description_TW : "Magiczny rdzeń oddychający mrozem, używany do rzemiosła."
+mat_reginessence_TW : "Eter Regin"
+mat_reginessence_description_TW : "Cenny magiczny eter, używany do tworzenia potężnych przedmiotów."
+mat_smolderingcore_TW : "Dymiący rdzeń"
+mat_smolderingcore_description_TW : "Magiczny rdzeń oddychający ogniem, używany do rzemiosła."
+
+##VEGETATION##
+ashen_tree_TW : "Palące się drzewo"
+metalsource_titansword_TW : "Pozostałość tytana"
+minerock_glacierfragment_TW : "Fragment lodowca"
+minerock_tyranium_TW : "Złoże tyranium"
+minerock_volcanicfragment_TW : "Fragment wulkaniczny"
+minerock_stalagdeepnorth_TW : "Lodowcowy stalagmit"
+minerock_blackicedeepnorth_TW : "Kryształ Czarnego Lodu"
+ashlands_tree_TW : "Spalone drzewo"
+deepnorth_tree_TW : "Borealne drzewo"
+deepnorth_pinetree_TW : "Borealna sosna"
+deepnorth_deadpinetree_TW : "Borealna martwa sosna"
+ashlands_branch_TW : "Spalona gałąź"
+deepnorth_branch_TW : "Borealna gałąź"
+ashlands_wood_TW : "Spalone drewno"
+ashlands_wood_description_TW : "Spalone drewno z Popiołów, używane do rzemiosła i budownictwa."
+deepnorth_wood_TW : "Borealne drewno"
+borealpinetree_cone_TW : "Szyszka borealnej sosny"
+deepnorth_pinewood_TW : "Borealne twarde drewno"
+borealtree_cone_TW : "Szyszka drzewa borealnego"
+deepnorth_wood_description_TW : "Borealne drewno z Dalekiej Północy, używane do rzemiosła i budownictwa."
+mat_glacierstone_TW : "Kamień lodowcowy"
+mat_glacierstone_description_TW : "Zimny w dotyku kamień."
+mat_volcanicstone_TW : "Kamień wulkaniczny"
+mat_volcanicstone_description_TW : "Pompeje dzwonią, chcą swojego kamienia z powrotem."
+mat_tyraniumbar_TW : "Tyranium"
+mat_tyraniumbar_description_TW : "Ciężka sztaba metalu tyranium, używana do różnych rzemiosł."
+mat_tyraniumore_TW : "Ruda tyranium"
+mat_tyraniumore_description_TW : "Gdy wilk odgryzł rękę Týrowi, krew skrzepła w cenny metal Tyranium, gdy dotknęła ziemii."
+mat_firelilly_TW : "Ognista lilia"
+mat_firelilly_DESCRIPTION_TW : "Egzotyczna lilia rosnąca na spalonym południowym płaskowyżu."
+consume_tundraberry_TW : "Jagoda tundry"
+consume_tundraberry_DESCRIPTION_TW : "Zamrożony owoc z północnej tundry."
+consume_flamecap_TW : "Ognikubek"
+consume_flamecap_DESCRIPTION_TW : "Płomienny grzyb z brzegów spalonego południowego płaskowyżu."
+consume_wintercap_TW : "Lodokubek"
+consume_wintercap_DESCRIPTION_TW : "Zamrożony grzyb z brzegów północnej tundry."
+consume_ashenroot_TW : "Popielny Korzeń"
+consume_ashenroot_DESCRIPTION_TW : "Słodki, jadalny korzeń z żyznych popiołów południowych."
+consume_primalleak_TW : "Pierwotny Por"
+consume_primalleak_DESCRIPTION_TW : "Zamrożone warzywo, w pełni przystosowane do surowego klimatu Dalekiej Północy."
+sapling_tundraberry_TW : "Sadzonka jagody tundry"
+sapling_primalleak_TW : "Sadzonka Pierwotnego Pora"
+sapling_mushroomwintercap_TW : "Sadzonka Lodokubka"
+sapling_ashenroot_TW : "Sadzonka Popielnego Korzenia"
+sapling_firelilly_TW : "Sadzonka ognistej lilii"
+sapling_mushroomflamecap_TW : "Sadzonka Ogniokubka"
