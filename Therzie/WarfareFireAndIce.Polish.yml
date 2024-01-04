@@ -15,14 +15,14 @@ piece_blackforge_ext3_TW : "Nasycony Eitrem kamień do ostrzenia broni"
 piece_blackforge_ext3_description_TW : "Ulepszenie czarnej kuźni"
 piece_runesphere_TW : "Runiczna sfera"
 piece_runesphere_description_TW : "Magiczna stacja rzemieślnicza"
-piece_borealPine_wall_log_TW : Borealna Belka
-piece_borealPine_wall_log_4_TW : Borealna Belka 4m
-piece_borealPine_log_TW : Borealny Pal
-piece_borealPine_log_4x_TW : Borealny Pal 4m
-piece_borealPine_log_26_TW : Borealna Belka 26°
-piece_borealPine_longlog_26_TW : Borealna Belka 4m 26°
-piece_borealPine_log_45_TW : Borealna Belka 45°
-piece_borealPine_longlog_45_TW : Borealna Belka 4m 45°
+piece_borealpinelogbeam2_TW : Borealna Belka
+piece_borealpinelogbeam4_TW : Borealna Belka 4m
+piece_borealpinelogpole2_TW : Borealny Pal
+piece_borealpinepole4_TW : Borealny Pal 4m
+piece_borealpinelog26_TW : Borealna Belka 26°
+piece_borealpinelonglog26_TW : Borealna Belka 4m 26°
+piece_borealpinelog45_TW : Borealna Belka 45°
+piece_borealpinelonglog45_TW : Borealna Belka 4m 45°
 
 
 
@@ -124,7 +124,9 @@ claymore_jotunn_description_TW : "Zamrożona ostrza używane do rozcinania i zam
 blade_glacier_TW : "Ostrze lodowe"
 blade_glacier_description_TW: "Zamrożone podwójne ostrze używane do skakania i siekania wrogów na kawałki lodu."
 blade_volcanic_TW : "Ostrze wulkaniczne"
-blade_volcanic_description_TW: "Roztopione podwójne ostrze używane do skakania i siekania wrogów na palące się kawałki."
+blade_volcanic_description_TW : "Roztopione podwójne ostrze używane do skakania i siekania wrogów na palące się kawałki."
+dual_hammerstormstrike_TW : "Młoty Burzy"
+dual_hammerstormstrike_description_TW : "Zabójcza para elektryzujących burzowych młotów, zagubionych w wojnach Fenrira. Podobno zostały zaklęte przez samego Thora."
 
 ##DUAL WEAPONS##
 dual_axekrom_TW : "Topory Kroma"
