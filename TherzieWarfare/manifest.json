@@ -1,0 +1,9 @@
+{
+    "name": "Warfare_Polish_Localization",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for Therzie's mod Warfare.",
+    "dependencies": [
+                    "Therzie-Warfare-1.6.2"
+    ]
+}

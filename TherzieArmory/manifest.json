@@ -1,0 +1,9 @@
+{
+    "name": "Armory_Polish_Localization",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for Therzie's mod Armory.",
+    "dependencies": [
+                    "Therzie-Armory-1.1.6"
+    ]
+}

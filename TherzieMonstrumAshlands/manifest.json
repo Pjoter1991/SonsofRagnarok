@@ -1,0 +1,9 @@
+{
+    "name": "MonstrumAshlands_Polish_Localization",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
+    "description": "Polish translation for Therzie's mod MonstrumAshlands.",
+    "dependencies": [
+                    "Therzie-MonstrumAshlands-1.1.4"
+    ]
+}
