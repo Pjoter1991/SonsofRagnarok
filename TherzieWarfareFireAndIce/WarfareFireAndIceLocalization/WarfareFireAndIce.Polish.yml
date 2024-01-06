@@ -15,6 +15,8 @@ piece_blackforge_ext3_TW : "Nasycony Eitrem kamień do ostrzenia broni"
 piece_blackforge_ext3_description_TW : "Ulepszenie czarnej kuźni"
 piece_runesphere_TW : "Runiczna sfera"
 piece_runesphere_description_TW : "Magiczna stacja rzemieślnicza"
+
+##BOREAL PINE COREWOOD LOGS##
 piece_borealpinelogbeam2_TW : Borealna Belka
 piece_borealpinelogbeam4_TW : Borealna Belka 4m
 piece_borealpinelogpole2_TW : Borealny Pal
@@ -24,13 +26,41 @@ piece_borealpinelonglog26_TW : Borealna Belka 4m 26°
 piece_borealpinelog45_TW : Borealna Belka 45°
 piece_borealpinelonglog45_TW : Borealna Belka 4m 45°
 
-
-
 ##RAVEN##
 ymirforge_topic_TW : "Zbudowałeś kuźnię Ymira!"
 ymirforge_text_TW : "Na tej kuźni możesz kraftować potężne bronie zamieszczone w ogniu i lodzie."
 
 ##WEAPONS##
+
+##MAGIC##
+staff_storm_TW : "Tkacz Burz"
+staff_storm_description_TW : "Potężna różdżka piorunów do rażenia i paraliżowania przeciwników."
+staff_impdemon_TW : "Demoniczna Różdżka"
+staff_impdemon_description_TW : "Zaklęta czarnąmagiągłowa Impa, pozwalająca przyzywać demonicznych przyjaciół z Otchłani."
+staff_skrymir_TW : "Gniew Skrymira"
+staff_skrymir_description_TW : "Potężna lodowa różdżka, którą możesz zamrażać wrogów."
+staffimp_maxsummon : "Twoja demoniczna różdżka nie jest wystarczająco silna, by kontrolować więcej przywołańców."
+summonedimp_TW : "Imp Otchłani"
+tamed_impname_01 : "Belzebubok"
+tamed_impname_02 : "Diabłektor"
+tamed_impname_03 : "Złościuś"
+tamed_impname_04 : "Szataniczek"
+tamed_impname_05 : "Szatanella"
+tamed_impname_06 : "Mrużdżącyoka"
+tamed_impname_07 : "Zgrzytofant"
+tamed_impname_08 : "Fochmir"
+tamed_impname_09 : "Impocent"
+tamed_impname_10 : "Złośliwiec"
+tamed_impname_11 : "Psotnix"
+tamed_impname_12 : "Imprezario"
+tamed_impname_13 : "Rozbawionek"
+tamed_impname_14 : "Mocroczar"
+tamed_impname_15 : "Kłopotnik"
+tamed_impname_16 : "Marnieczar"
+tamed_impname_17 : "Złościk"
+tamed_impname_18 : "Szaleńczełek"
+tamed_impname_19 : "Rozrabiak"
+tamed_impname_20 : "Grochoczymaż"
 
 ##ARROWS##  
 arrow_explosivefire_TW : "Wybuchowe strzały ognia"
@@ -188,14 +218,6 @@ warpike_njord_description_TW : "Runiczna, solidna włócznia zaklęta okrucieńs
 warpike_surtr_TW : "Bojowa włócznia Surtra"
 warpike_surtr_description_TW : "Runiczna, solidna włócznia zaklęta okrucieństwem Vulkariona. Służy do palenia i przebijania wrogów lub skakania do walki."
 
-##STAVES##
-staff_storm_TW : "Tkacz Burz"
-staff_storm_description_TW : "Potężna różdżka piorunów do rażenia i paraliżowania przeciwników."
-staff_impdemon_TW : "Demoniczna Różdżka"
-staff_impdemon_description_TW : "Zaklęta czarnąmagiągłowa Impa, pozwalająca przyzywać demonicznych przyjaciół z Otchłani."
-staff_skrymir_TW : "Gniew Skrymira"
-staff_skrymir_description_TW : "Potężna lodowa różdżka, którą możesz zamrażać wrogów."
-
 ##SHIELDS##
 shield_bucklerblackmetal_description_TW : "Puklerz z czarnego metalu, który może być używany do odbijania uderzeń wrogów przeciw nim."
 shield_bucklerflametal_TW : "Puklerz z Ogniometalu"
@@ -262,10 +284,9 @@ deepnorth_branch_TW : "Borealna gałąź"
 ashlands_wood_TW : "Spalone drewno"
 ashlands_wood_description_TW : "Spalone drewno z Popiołów, używane do rzemiosła i budownictwa."
 deepnorth_wood_TW : "Borealne drewno"
-borealpinetree_cone_TW : "Szyszka borealnej sosny"
-deepnorth_pinewood_TW : "Borealne twarde drewno"
-borealtree_cone_TW : "Szyszka drzewa borealnego"
 deepnorth_wood_description_TW : "Borealne drewno z Dalekiej Północy, używane do rzemiosła i budownictwa."
+deepnorth_pinewood_TW : "Borealne twarde drewno"
+deepnorth_pinewood_description_TW : "Borealne drewno sosnowe z Głębokiej Północy, używane do wytwarzania i budowania."
 mat_glacierstone_TW : "Kamień lodowcowy"
 mat_glacierstone_description_TW : "Zimny w dotyku kamień."
 mat_volcanicstone_TW : "Kamień wulkaniczny"
@@ -275,20 +296,32 @@ mat_tyraniumbar_description_TW : "Ciężka sztaba metalu tyranium, używana do r
 mat_tyraniumore_TW : "Ruda tyranium"
 mat_tyraniumore_description_TW : "Gdy wilk odgryzł rękę Týrowi, krew skrzepła w cenny metal Tyranium, gdy dotknęła ziemii."
 mat_firelilly_TW : "Ognista lilia"
-mat_firelilly_DESCRIPTION_TW : "Egzotyczna lilia rosnąca na spalonym południowym płaskowyżu."
+mat_firelilly_description_TW : "Egzotyczna lilia rosnąca na spalonym południowym płaskowyżu."
 consume_tundraberry_TW : "Jagoda tundry"
-consume_tundraberry_DESCRIPTION_TW : "Zamrożony owoc z północnej tundry."
+consume_tundraberry_description_TW : "Zamrożony owoc z północnej tundry."
 consume_flamecap_TW : "Ognikubek"
-consume_flamecap_DESCRIPTION_TW : "Płomienny grzyb z brzegów spalonego południowego płaskowyżu."
+consume_flamecap_description_TW : "Płomienny grzyb z brzegów spalonego południowego płaskowyżu."
 consume_wintercap_TW : "Lodokubek"
-consume_wintercap_DESCRIPTION_TW : "Zamrożony grzyb z brzegów północnej tundry."
+consume_wintercap_description_TW : "Zamrożony grzyb z brzegów północnej tundry."
 consume_ashenroot_TW : "Popielny Korzeń"
-consume_ashenroot_DESCRIPTION_TW : "Słodki, jadalny korzeń z żyznych popiołów południowych."
+consume_ashenroot_description_TW : "Słodki, jadalny korzeń z żyznych popiołów południowych."
 consume_primalleak_TW : "Pierwotny Por"
-consume_primalleak_DESCRIPTION_TW : "Zamrożone warzywo, w pełni przystosowane do surowego klimatu Dalekiej Północy."
+consume_primalleak_description_TW : "Zamrożone warzywo, w pełni przystosowane do surowego klimatu Dalekiej Północy."
+
+##SAPLINGS AND EXTRAS##
 sapling_tundraberry_TW : "Sadzonka jagody tundry"
 sapling_primalleak_TW : "Sadzonka Pierwotnego Pora"
 sapling_mushroomwintercap_TW : "Sadzonka Lodokubka"
 sapling_ashenroot_TW : "Sadzonka Popielnego Korzenia"
 sapling_firelilly_TW : "Sadzonka ognistej lilii"
 sapling_mushroomflamecap_TW : "Sadzonka Ogniokubka"
+sapling_borealpinetree_TW : "Sadzonka sosny borealnej"
+sapling_borealtree_TW : "Drzewko borealne"  
+borealtree_cone_TW : "Szyszka drzewa borealnego"
+borealtree_cone_description_TW : "Posadź ją, aby wyhodować drzewo borealne."
+borealpinetree_cone_TW : "Szyszka borealnej sosny"
+borealpinetree_cone_description_TW : "Posadź ją, aby wyhodować sosnę borealną."
+
+##SE'S##
+SE_LightningBurst_TW : "Naładowany"
+SE_LightningBurst_description_TW : "Napędzany walką, uwalnia błyskawicę przy 5 trafieniu."
