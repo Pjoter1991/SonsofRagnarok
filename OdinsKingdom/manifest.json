@@ -1,9 +1,9 @@
 {
     "name": "OdinsKingdom_Polish_Translation",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Pjoter1991/SonsofRagnarok",
     "description": "Polish translation for OdinPlus OdinsKingdom mod.",
     "dependencies": [
-                    "OdinPlus-OdinsKingdom-1.2.17"
+                    "OdinPlus-OdinsKingdom-1.2.18"
     ]
 }
