@@ -13,6 +13,6 @@ Polish translation for Advize's mod PlantEverything.
 
 
 
-W razie uwag oraz poprawek złap **Pjotera** na Discordzie [Sons of Ragnarok](https://discord.gg/bhzxCZVezB).</br>
+W razie uwag oraz poprawek złap **Pjotera** na Discordzie [Sons of Ragnarok](https://discord.gg/Bxt8tdQgjS).</br>
 
 ![SonsofRagnarok](https://i.imgur.com/G6SKC1W.png)
